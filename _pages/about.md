@@ -47,13 +47,28 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018–19* J. William Fulbright-RGC Hong Kong Research Scholar Award (Research Grants Council)  
+- *2017* HKSAR Scholarship Fund – Reaching Out Award (Hong Kong Government)  
+- *2014* King’s–China Scholarship Council PhD Scholarship (Chinese Scholarship Council)  
+- *2012* Social Research Achievement Award (Guangdong Provincial Government)  
+- *2011* China National Scholarship (Ministry of Education, PRC Central Government)  
+- *2011* Sino-Singapore Undergraduate Exchange Fellow (PRC Central Government)  
+- *2011* Undergraduate Innovation Experimental Program Research Output Award (Guangdong Provincial Government)  
+- *2010* China National Scholarship (Ministry of Education, PRC Central Government)  
+- *2010* Outstanding Undergraduate Exchange Fellow (Sun Yat-sen University)  
+- *2008–12* Lingnan Foundation Liberal Education Fellow (Lingnan Foundation)  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+ - *2015.09 – 2019.12* Ph.D. in Laws, The Chinese University of Hong Kong, Hong Kong  
+  (Supervisors: Prof. Chao XI, Prof. Dicky TSANG, Prof. Kun FAN)  
+- *2016.09 – 2017.12* M.Sc. in Finance, The Chinese University of Hong Kong, Hong Kong  
+- *2012.09 – 2013.09* LL.M., University College London, U.K.  
+- *2008.09 – 2012.06* LL.B., Sun Yat-sen University, China  
+  with concurrent registration:  
+  • B.A. in English, Sun Yat-sen University, China  
+  • Minor in Administrative Management, Sun Yat-sen University, China  
+  • Minor in Liberal Learning Education, Sun Yat-sen University, China
+  
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
