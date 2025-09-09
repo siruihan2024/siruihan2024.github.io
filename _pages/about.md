@@ -27,11 +27,18 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08* 🎉 Our paper **CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild** is published in *Information Fusion*.  
+- *2025.05* 🎉 Our paper **Follow-your-motion: Video motion transfer via efficient spatial-temporal decoupled finetuning** is accepted by *CVPR 2025*.  
+- *2025.05* 🎉 Our work **Safe rlhf-v: Safe reinforcement learning from human feedback in multimodal LLMs** is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our paper **Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs** is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our benchmark **Privaci-bench: Evaluating privacy with contextual integrity and legal compliance** is accepted by *ICLR 2025*.  
+- *2025.05* 🎉 Our paper **Benchmarking multi-national value alignment for large language models** is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our paper **Out-of-Distribution Detection via LLM-Guided Outlier Generation for Text-attributed Graph** is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our work **Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA** is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our paper **Semantic-guided Diverse Decoding for Large Language Model** is accepted by *ACL 2025*.  
+
 
 # 📝 Experience 
-
 <div class='paper-box'>
   <div class='paper-box-image size-350x100'>
     <div>
