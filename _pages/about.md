@@ -44,7 +44,65 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/kust.png' alt="KUST Logo" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**KUST, Division of Emerging Interdisciplinary Areas**  
+Assistant Professor, January 2024 – present  
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/polyu.png' alt="PolyU Logo" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**The Hong Kong Polytechnic University, School of Accounting and Finance**  
+Assistant Professor (Research), December 2022 – January 2024  
+In-residence CURI Fellow, July 2023 – December 2022  
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/citibank.png' alt="Citibank Logo" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Citibank (Hong Kong), Investment Banking (Global Markets Research)**  
+Equity Research Associate, September 2021 – July 2022  
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/cuhk.png' alt="CUHK Logo" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**The Chinese University of Hong Kong, Faculty of Law**  
+Postdoc Fellow, September 2019 – August 2021  
+
+  </div>
+</div>
+
+
+// - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2018–19* J. William Fulbright-RGC Hong Kong Research Scholar Award (Research Grants Council)  
