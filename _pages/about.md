@@ -33,58 +33,58 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 # 📝 Experience 
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image size-350x100'>
     <div>
       <img src='images/hkust.png' alt="HKUST Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**HKUST, Division of Emerging Interdisciplinary Areas**  
-Assistant Professor, January 2024 – present  
+**HKUST, Division of Emerging Interdisciplinary Areas**
+Assistant Professor, January 2024 – present
 
   </div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image size-400x120 shift-left-30'>
     <div>
       <img src='images/polyu.png' alt="PolyU Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**The Hong Kong Polytechnic University, School of Accounting and Finance**  
-Assistant Professor (Research), December 2022 – January 2024  
-In-residence CURI Fellow, July 2023 – December 2022  
+**The Hong Kong Polytechnic University, School of Accounting and Finance**
+Assistant Professor (Research), December 2022 – January 2024
+In-residence CURI Fellow, July 2023 – December 2022
 
   </div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image size-350x90 shift-right-5'>
     <div>
       <img src='images/citibank.png' alt="Citibank Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Citibank (Hong Kong), Investment Banking (Global Markets Research)**  
-Equity Research Associate, September 2021 – July 2022  
+**Citibank (Hong Kong), Investment Banking (Global Markets Research)**
+Equity Research Associate, September 2021 – July 2022
 
   </div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image size-400x100 shift-left-20'>
     <div>
       <img src='images/cuhk.png' alt="CUHK Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**The Chinese University of Hong Kong, Faculty of Law**  
-Postdoc Fellow, September 2019 – August 2021  
+**The Chinese University of Hong Kong, Faculty of Law**
+Postdoc Fellow, September 2019 – August 2021
 
   </div>
 </div>
