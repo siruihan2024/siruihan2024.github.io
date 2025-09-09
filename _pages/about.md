@@ -27,15 +27,15 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 
 # 🔥 News
-- *2025.08* 🎉 Our paper **CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild** is published in *Information Fusion*.  
-- *2025.05* 🎉 Our paper **Follow-your-motion: Video motion transfer via efficient spatial-temporal decoupled finetuning** is accepted by *CVPR 2025*.  
-- *2025.05* 🎉 Our work **Safe rlhf-v: Safe reinforcement learning from human feedback in multimodal LLMs** is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our paper **Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs** is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our benchmark **Privaci-bench: Evaluating privacy with contextual integrity and legal compliance** is accepted by *ICLR 2025*.  
-- *2025.05* 🎉 Our paper **Benchmarking multi-national value alignment for large language models** is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our paper **Out-of-Distribution Detection via LLM-Guided Outlier Generation for Text-attributed Graph** is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our work **Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA** is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our paper **Semantic-guided Diverse Decoding for Large Language Model** is accepted by *ACL 2025*.  
+- *2025.08* 🎉 Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525006852">**CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild**</a> is published in *Information Fusion*.  
+- *2025.05* 🎉 Our paper <a href="https://arxiv.org/abs/2506.05207">**Follow-your-motion: Video motion transfer via efficient spatial-temporal decoupled finetuning**</a>  is accepted by *CVPR 2025*.  
+- *2025.05* 🎉 Our work <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250317682J/abstract">**Safe rlhf-v: Safe reinforcement learning from human feedback in multimodal large language models**</a>  is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our paper <a href="https://arxiv.org/abs/2503.12918">**Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs**</a>  is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our benchmark <a href="https://arxiv.org/abs/2502.17041">**Privaci-bench: Evaluating privacy with contextual integrity and legal compliance**</a>  is accepted by *ICLR 2025*.  
+- *2025.05* 🎉 Our paper <a href="https://aclanthology.org/2025.findings-acl.1028/">**Benchmarking multi-national value alignment for large language models**</a>  is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our paper <a href="https://aclanthology.org/2025.findings-acl.1001/">**Out-of-Distribution Detection via LLM-Guided Outlier Generation for Text-attributed Graph**</a>  is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our work <a href="https://aclanthology.org/2025.findings-acl.388/">**Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA**</a>  is accepted by *ACL 2025*.  
+- *2025.05* 🎉 Our paper <a href="https://arxiv.org/abs/2506.23601">**Semantic-guided Diverse Decoding for Large Language Model**</a>  is accepted by *ACL 2025*.  
 
 
 # 📝 Experience 
