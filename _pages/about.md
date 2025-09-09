@@ -89,9 +89,6 @@ Postdoc Fellow, September 2019 – August 2021
   </div>
 </div>
 
-
-// - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2018–19* J. William Fulbright-RGC Hong Kong Research Scholar Award (Research Grants Council)  
 - *2017* HKSAR Scholarship Fund – Reaching Out Award (Hong Kong Government)  
