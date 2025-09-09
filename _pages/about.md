@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I serve as an Assistant Professor at the Hong Kong University of Science and Technology. Prior to my current role, I held the position of Assistant Professor (Research) at the Hong Kong Polytechnic University's School of Accounting and Finance. I also bring experience as an equity research analyst from Citibank (Hong Kong), where I specialized in China's automotive and auto parts sectors, providing advisory support to top hedge funds and global institutional clients.
+
+My academic credentials are robust; I hold a Ph.D. in Law and an M.Sc. in Finance from the Chinese University of Hong Kong, complemented by an LL.M. in International Commercial Law from University College London. My academic journey includes valuable experience gained during brief training at Oxford Law School and a visiting period at the Harvard Institute for Global Law & Policy. In the academic year 2018-19, I was honored with the J. William Fulbright Visiting Scholar appointment at Cornell Law School.
+
+My research spans across AI Governance, Legal Tech, and the intersection of Law and Finance. I have demonstrated a strong aptitude for securing research funding, having played a pivotal role in acquiring grants totaling over 6 million HKD by the end of 2023. Beyond academia, I contribute my expertise to the discourse on innovation and technology development in the Greater Bay Area, with my analyses and opinions featured in the South China Morning Post, China Daily, and various esteemed media outlets.
 
 
 # 🔥 News
