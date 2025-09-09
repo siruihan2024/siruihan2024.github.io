@@ -55,11 +55,41 @@
         display: flex;
         width: 100%;
         order: 2;
+        align-items: center;
         img {
-            max-width: 400px;
-            // box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            width: 400px;
+            height: 120px;
+            /* box-shadow: 3px 3px 6px #888; */
+            object-fit: contain;
+            object-position: center;
+            transform: translateX(0px); /* 默认位置 */
         }
+
+        /* 自定义尺寸类 */
+        &.size-300x80 img { width: 300px; height: 80px; }
+        &.size-350x90 img { width: 350px; height: 90px; }
+        &.size-350x100 img { width: 350px; height: 100px; }
+        &.size-400x100 img { width: 400px; height: 100px; }
+        &.size-400x120 img { width: 400px; height: 120px; }
+        &.size-400x140 img { width: 400px; height: 140px; }
+        &.size-450x120 img { width: 450px; height: 120px; }
+        &.size-450x140 img { width: 450px; height: 140px; }
+        &.size-500x120 img { width: 500px; height: 120px; }
+        &.size-500x140 img { width: 500px; height: 140px; }
+
+        /* 位置调整类 */
+        &.shift-left-5 img { transform: translateX(-5px); }
+        &.shift-left-10 img { transform: translateX(-10px); }
+        &.shift-left-15 img { transform: translateX(-15px); }
+        &.shift-left-20 img { transform: translateX(-20px); }
+        &.shift-left-25 img { transform: translateX(-25px); }
+        &.shift-left-30 img { transform: translateX(-30px); }
+        &.shift-right-5 img { transform: translateX(5px); }
+        &.shift-right-10 img { transform: translateX(10px); }
+        &.shift-right-15 img { transform: translateX(15px); }
+        &.shift-right-20 img { transform: translateX(20px); }
+        &.shift-right-25 img { transform: translateX(25px); }
+        &.shift-right-30 img { transform: translateX(30px); }
     }
     
     .paper-box-text{
@@ -73,6 +103,7 @@
             min-width: 200px;
             max-width: 40%;
             order: 1;
+            align-items: center;
         }
         
         .paper-box-text{
@@ -83,7 +114,6 @@
         }
 
     }
-
 
 }
 
