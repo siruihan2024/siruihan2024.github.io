@@ -26,7 +26,7 @@ My academic credentials are robust; I hold a Ph.D. in Law and an M.Sc. in Financ
 My research spans across AI Governance, Legal Tech, and the intersection of Law and Finance. I have demonstrated a strong aptitude for securing research funding, having played a pivotal role in acquiring grants totaling over 6 million HKD by the end of 2023. Beyond academia, I contribute my expertise to the discourse on innovation and technology development in the Greater Bay Area, with my analyses and opinions featured in the South China Morning Post, China Daily, and various esteemed media outlets.
 
 
-# 🔥 News
+# 🔥 Recent News
 - *2025.08* 🎉 Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525006852">**CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild**</a> is published in *Information Fusion*.  
 - *2025.05* 🎉 Our paper <a href="https://arxiv.org/abs/2506.05207">**Follow-your-motion: Video motion transfer via efficient spatial-temporal decoupled finetuning**</a>  is accepted by *CVPR 2025*.  
 - *2025.05* 🎉 Our work <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250317682J/abstract">**Safe rlhf-v: Safe reinforcement learning from human feedback in multimodal large language models**</a>  is accepted by *ACL 2025*.  
