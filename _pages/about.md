@@ -97,15 +97,15 @@ Postdoc Fellow, September 2019 – August 2021
 </div>
 
 # 📖 Educations
- - *2015.09 – 2019.12* Ph.D. in Laws, The Chinese University of Hong Kong, Hong Kong  
+- *2019* Ph.D. in Laws, The Chinese University of Hong Kong, Hong Kong  
   (Supervisors: Prof. Chao XI, Prof. Dicky TSANG, Prof. Kun FAN)  
-- *2016.09 – 2017.12* M.Sc. in Finance, The Chinese University of Hong Kong, Hong Kong  
-- *2012.09 – 2013.09* LL.M., University College London, U.K.  
-- *2008.09 – 2012.06* LL.B., Sun Yat-sen University, China  
+- *2017* M.Sc. in Finance, The Chinese University of Hong Kong, Hong Kong  
+- *2013* LL.M., University College London, U.K.  
+- *2012* LL.B., Sun Yat-sen University, China  
   with concurrent registration:  
   • B.A. in English, Sun Yat-sen University, China  
   • Minor in Administrative Management, Sun Yat-sen University, China  
-  • Minor in Liberal Learning Education, Sun Yat-sen University, China
+  • Minor in Liberal Learning Education, Sun Yat-sen University, China  
 
 # 🎖 Honors and Awards
 - *2018–19* J. William Fulbright-RGC Hong Kong Research Scholar Award (Research Grants Council)  
