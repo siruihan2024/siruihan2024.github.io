@@ -129,6 +129,14 @@ Postdoc Fellow, September 2019 – August 2021
   • Minor in Administrative Management, Sun Yat-sen University, China  
   • Minor in Liberal Learning Education, Sun Yat-sen University, China  
 
+# 🌍 Visiting Appointments
+- *2018–2019* Cornell University, School of Law — In-residence J. William Fulbright Visiting Scholar  
+- *2018* Academia Sinica, Institutum Iurisprudentiae — Visiting Research Scholar (Sep – Oct)  
+- *2018* Harvard University, Institute for Global Law and Policy — Academic Visitor (Jun)  
+- *2017* Shenzhen Stock Exchange, Shenzhen, China — Visiting Research Scholar (Jul – Oct)  
+- *2017* University of Oxford, Faculty of Law — Junior Academic Visitor (Mar – Jun)  
+- *2011* National University of Singapore, Faculty of Law — Sino-Singapore Undergraduate Exchange Fellow (Mar – Apr)  
+
 # 🎖 Honors and Awards
 - *2018–19* J. William Fulbright-RGC Hong Kong Research Scholar Award (Research Grants Council)  
 - *2017* HKSAR Scholarship Fund – Reaching Out Award (Hong Kong Government)  
