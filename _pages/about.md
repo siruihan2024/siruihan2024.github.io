@@ -65,8 +65,10 @@ Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; **Han, 
   </div>
   <div class='paper-box-text' markdown="1">
 
-**HKUST, Division of Emerging Interdisciplinary Areas**
-Assistant Professor, January 2024 – present
+**HKUST, Division of Emerging Interdisciplinary Areas**  
+Department of Economics (Joint Appointment)  
+Division of Arts and Machine Creativity (Joint Appointment)  
+Assistant Professor & Associate Director of HKUST-DXM AI for Finance Joint Laboratory, January 2024 – present
 
   </div>
 </div>
@@ -79,9 +81,10 @@ Assistant Professor, January 2024 – present
   </div>
   <div class='paper-box-text' markdown="1">
 
-**The Hong Kong Polytechnic University, School of Accounting and Finance**
-Assistant Professor (Research), December 2022 – January 2024
-In-residence CURI Fellow, July 2023 – December 2022
+**The Hong Kong Polytechnic University, School of Accounting and Finance**  
+Assistant Professor (Research), December 2022 – January 2024  
+In-residence CURI Fellow, July 2023 – December 2022  
+Postdoc Fellow, September 2021 – November 2022
 
   </div>
 </div>
@@ -94,7 +97,7 @@ In-residence CURI Fellow, July 2023 – December 2022
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Citibank (Hong Kong), Investment Banking (Global Markets Research)**
+**Citibank (Hong Kong), Investment Banking (Global Markets Research)**  
 Equity Research Associate, September 2021 – July 2022
 
   </div>
@@ -108,11 +111,12 @@ Equity Research Associate, September 2021 – July 2022
   </div>
   <div class='paper-box-text' markdown="1">
 
-**The Chinese University of Hong Kong, Faculty of Law**
+**The Chinese University of Hong Kong, Faculty of Law**  
 Postdoc Fellow, September 2019 – August 2021
 
   </div>
 </div>
+
 
 # 📖 Educations
 - *2019* Ph.D. in Laws, The Chinese University of Hong Kong, Hong Kong  
