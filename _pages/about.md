@@ -27,15 +27,17 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 
 # 🔥 Recent News
-- *2025.08* 🎉 Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525006852">**CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild**</a> is published in *Information Fusion*.  
-- *2025.05* 🎉 Our paper <a href="https://arxiv.org/abs/2506.05207">**Follow-your-motion: Video motion transfer via efficient spatial-temporal decoupled finetuning**</a>  is accepted by *CVPR 2025*.  
-- *2025.05* 🎉 Our work <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250317682J/abstract">**Safe rlhf-v: Safe reinforcement learning from human feedback in multimodal large language models**</a>  is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our paper <a href="https://arxiv.org/abs/2503.12918">**Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs**</a>  is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our benchmark <a href="https://arxiv.org/abs/2502.17041">**Privaci-bench: Evaluating privacy with contextual integrity and legal compliance**</a>  is accepted by *ICLR 2025*.  
-- *2025.05* 🎉 Our paper <a href="https://aclanthology.org/2025.findings-acl.1028/">**Benchmarking multi-national value alignment for large language models**</a>  is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our paper <a href="https://aclanthology.org/2025.findings-acl.1001/">**Out-of-Distribution Detection via LLM-Guided Outlier Generation for Text-attributed Graph**</a>  is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our work <a href="https://aclanthology.org/2025.findings-acl.388/">**Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA**</a>  is accepted by *ACL 2025*.  
-- *2025.05* 🎉 Our paper <a href="https://arxiv.org/abs/2506.23601">**Semantic-guided Diverse Decoding for Large Language Model**</a>  is accepted by *ACL 2025*.  
+- *2025.07*：  🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525006852">**CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild**</a> accepted by **Information Fusion**.
+- *2025.07*： 🎉🎉 <a href="https://arxiv.org/abs/2504.12911">**Benchmarking multi-national value alignment for large language models**</a> published in **Findings of ACL 2025**.
+- *2025.07*：  🎉🎉 <a href="https://arxiv.org/abs/2505.19455">**Out-of-Distribution Detection via LLM-Guided Outlier Generation for Text-attributed Graph**</a> published in **Findings of ACL 2025**.
+- *2025.07*：  🎉🎉 <a href="https://arxiv.org/abs/2505.17433">**Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA**</a> published in **Findings of ACL 2025**.
+- *2025.06*：  🎉🎉 <a href="https://arxiv.org/abs/2505.18807">**Mitigating deceptive alignment via self-monitoring**</a> preprint released on arXiv.
+- *2025.06*：  🎉🎉 <a href="https://arxiv.org/abs/2505.20214">**The Mirage of Multimodality: Where Truth is Tested and Honesty Unravels**</a> preprint released on arXiv.
+- *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2505.11875">**J1: Exploring System-Level Scaling for LLM-as-a-Judge**</a> preprint released on arXiv.
+- *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2503.12918">**Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs**</a> preprint released on arXiv.
+- *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a> preprint released on arXiv.
+- *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a> preprint released on arXiv.
+ 
 
 
 # 📝 Experience 
