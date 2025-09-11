@@ -3,8 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Recent News"
+    url: "/#-recent-news"
+
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Experience"
     url: "/#-experience"
@@ -14,9 +17,3 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
