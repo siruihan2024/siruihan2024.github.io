@@ -33,7 +33,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 - *2025.07*：  🎉🎉 <a href="https://arxiv.org/abs/2505.17433">**Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA**</a> published in **Findings of ACL 2025**.
 - *2025.06*：  🎉🎉 <a href="https://arxiv.org/abs/2505.18807">**Mitigating deceptive alignment via self-monitoring**</a> preprint released on arXiv.
 - *2025.06*：  🎉🎉 <a href="https://arxiv.org/abs/2505.20214">**The Mirage of Multimodality: Where Truth is Tested and Honesty Unravels**</a> preprint released on arXiv.
-- *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2505.11875">**J1: Exploring System-Level Scaling for LLM-as-a-Judge**</a> preprint released on arXiv.
+- *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2505.11875">**J1: Exploring Simple Test-Time Scaling for LLM-as-a-Judge**</a> preprint released on arXiv.
 - *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2503.12918">**Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs**</a> preprint released on arXiv.
 - *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a> preprint released on arXiv.
 - *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a> preprint released on arXiv.
@@ -41,11 +41,11 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 # 📝 Selected Publications
 1. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a>,  
-Weijie Shi, Han Zhu, Jiaming Ji, Mengze Li, Jipeng Zhang, Ruiyuan Zhang, Jia Xu, Jiajie Xu, **Sirui Han**, Yike Guo  
+Shi, Weijie; Zhu, Han; Ji, Jiaming; Li, Mengze; Zhang, Jipeng; Zhang, Ruiyuan; Zhu, Jia; Xu, Jiajie; **Sirui Han**; Yike Guo  
 2. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a>,  
-Chuxue Cao, Han Zhu, Jiaming Ji, Qichao Sun, Zhenghao Zhu, Yinyu Wu, Juntao Dai, Yaodong Yang, **Sirui Han**, Yike Guo  
+Cao, Chuxue; Zhu, Han; Ji, Jiaming; Sun, Qichao; Zhu, Zhenghao; Wu, Yinyu; Dai, Juntao; Yang, Yaodong; Han, **Sirui Han**, Yike Guo  
 3. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2502.17041">**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**</a>,  
-Haoran Li, Wenbin Hu, Huihao Jing, Yulin Chen, Qi Hu, **Sirui Han**, Tianshu Chu, Peizhao Hu, Yangqiu Song  
+Li, Haoran; Hu, Wenbin; Jing, Huihao; Chen, Yulin; Hu, Qi; **Sirui Han**; Chu, Tianshu; Hu, Peizhao; Song, Yangqiu 
 4. <span style="background-color:#22c55e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span> <a href="https://dl.acm.org/doi/10.1145/3613905.3650880">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  
 Ruowen Niu, Jiaxiong Hu, Siyu Peng, Caleb Chen Cao, Chengzhong Liu, **Sirui Han**, Yike Guo  
 5. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span> <a href="https://www.sciencedirect.com/science/article/pii/S0144818824000910">**ESG disclosure, investor awareness, and carbon risk pricing: Evidence from the Chinese market**</a>,  
