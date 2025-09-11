@@ -117,6 +117,13 @@ Postdoc Fellow, September 2019 – August 2021
   </div>
 </div>
 
+# 🛠 Services
+- *2024–present* Head of LLM Division, Hong Kong Generative AI R&D Center  
+- *2023–2024* Senior Manager, Hong Kong Generative AI R&D Center  
+- *2023–present* Non-JUPAS Interview Panel Member, Undergraduate Programs, School of Accounting and Finance, The Hong Kong Polytechnic University  
+- *2023–present* Council Member, Hong Kong Young Scientist Association  
+- *2017–2018* Postgraduate Student Representative, University Health Services Committee, The Chinese University of Hong Kong  
+- *2016–2017* Postgraduate Student Representative, Faculty Board Meeting, Faculty of Law, The Chinese University of Hong Kong  
 
 # 📖 Educations
 - *2019* Ph.D. in Laws, The Chinese University of Hong Kong, Hong Kong  
