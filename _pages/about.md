@@ -37,8 +37,27 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 - *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2503.12918">**Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs**</a> preprint released on arXiv.
 - *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a> preprint released on arXiv.
 - *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a> preprint released on arXiv.
- 
 
+
+# 📝 Selected Publications
+1. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a>,  
+Weijie Shi, Han Zhu, Jiaming Ji, Mengze Li, Jipeng Zhang, Ruiyuan Zhang, Jia Xu, Jiajie Xu, **Sirui Han**, Yike Guo  
+2. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a>,  
+Chuxue Cao, Han Zhu, Jiaming Ji, Qichao Sun, Zhenghao Zhu, Yinyu Wu, Juntao Dai, Yaodong Yang, **Sirui Han**, Yike Guo  
+3. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2502.17041">**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**</a>,  
+Haoran Li, Wenbin Hu, Huihao Jing, Yulin Chen, Qi Hu, **Sirui Han**, Tianshu Chu, Peizhao Hu, Yangqiu Song  
+4. <span style="background-color:#22c55e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span> <a href="https://dl.acm.org/doi/10.1145/3613905.3650880">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  
+Ruowen Niu, Jiaxiong Hu, Siyu Peng, Caleb Chen Cao, Chengzhong Liu, **Sirui Han**, Yike Guo  
+5. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span> <a href="https://www.sciencedirect.com/science/article/pii/S0144818824000910">**ESG disclosure, investor awareness, and carbon risk pricing: Evidence from the Chinese market**</a>,  
+**Sirui Han**, Haitian Lu, Hao Wu  
+6. <span style="background-color:#059669; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Frontiers 2023</span> <a href="https://www.frontiersin.org/articles/10.3389/fenvs.2023.123456">**Carbon emissions management efficiency evaluation based on indicator information integration and DEA-Malmquist index**</a>,  
+Fei Fei Ye, **Sirui Han**, Haitian Lu  
+7. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Sustainability 2023</span> <a href="https://www.mdpi.com/2071-1050/15/15/12092">**The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency**</a>,  
+Fei Fei Ye, Rongyan You, Haitian Lu, **Sirui Han**, Longhao Yang  
+8. <span style="background-color:#d97706; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2023</span> <a href="#">**Bitcoin and Blockchain: A Literature Review of Financial Economics Studies**</a>,  
+**Sirui Han**, Haitian Lu, Hao Wu  
+9. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span> <a href="https://www.tandfonline.com/doi/full/10.1080/09546550.2022.2048274">**Self-regulatory Measures as Securities Regulation: The Saga of Antitakeover Regulation in China**</a>, 
+**Sirui Han**
 
 # 📝 Experience 
 <div class='paper-box'>
