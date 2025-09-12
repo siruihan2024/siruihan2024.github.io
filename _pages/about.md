@@ -53,7 +53,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 18. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ERG 2011</span>  *Han, S.R.** (2011). The Ignorance of Customary Law: Reflections of Law and Society in Traditional China. *Economic Research Guide*, Nov 2011.
 
-# 📝 Top Computer Science Conference Proceedings
+# 📝 Top CS Proceedings
 19. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span>  <a href="https://doi.org/10.1145/3706599.3719762">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; **Han, Sirui\***; Guo, Yike*. In <a href="https://chi2025.acm.org/">CHI EA ’25</a>.  
 
 20. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  <a href="https://aclanthology.org/2025.acl-long.123/">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a>,  Shi, Weijie; Zhu, Han; Ji, Jiaming; Li, Mengze; Zhang, Jipeng; Zhang, Ruiyuan; Zhu, Jia; Xu, Jiajie; **Han, Sirui\***; Guo, Yike*. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
