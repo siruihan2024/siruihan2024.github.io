@@ -31,7 +31,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 7. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CAFR 2024</span>  **Han, S.R.\***(*corresponding author*); Lu, H.T.; Wu, H. (2024). Revolutionizing Finance with Bitcoin and Blockchain: A Literature Review and Research Agenda. *China Accounting and Finance Review* (forthcoming).
 
-8. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2024</span>  **Han, S.R.** (2024). Harmonizing Arbitration Rules for Non-Signatories in International Trade. <a href="https://www.lexisnexis.co.uk/products/international-company-and-commercial-law-review">*International Company and Commercial Law Review*</a>, 2024(2), 90.
+8. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2024</span>  **Han, S.R.** (2024). Harmonizing Arbitration Rules for Non-Signatories in International Trade. *International Company and Commercial Law Review*, 2024(2), 90.
 
 9. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AJLE 2024</span>  **Han, S.R.** (2024). Does Antitakeover Provision Harm Shareholders? *Asian Journal of Law & Economics* (forthcoming).
 
