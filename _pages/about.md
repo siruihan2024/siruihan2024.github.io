@@ -31,7 +31,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 7. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CAFR 2024</span>  **Han, S.R.\***(*corresponding author*); Lu, H.T.; Wu, H. (2024). Revolutionizing Finance with Bitcoin and Blockchain: A Literature Review and Research Agenda. *China Accounting and Finance Review*.
 
-8. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2024</span>  **Han, S.R.** (2024). Harmonizing Arbitration Rules for Non-Signatories in International Trade. *International Company and Commercial Law Review*, 2024(2), 90.
+8. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2024</span>  **Han, S.R.** (2024). Harmonizing Arbitration Rules for Non-Signatories in International Trade: Integrating Charterparty Arbitration Clauses into Bills of Lading. *International Company and Commercial Law Review*, 2024(2), 90.
 
 9. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AJLE 2024</span>  **Han, S.R.** (2024). Does Antitakeover Provision Harm Shareholders? *Asian Journal of Law & Economics*.
 
@@ -39,7 +39,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 11. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Sustainability 2023</span>  Ye, F.F.; You, R.Y.; Lu, H.T.;**Han, S.R.\*** (*corresponding author*); Yang, L.H. (2023). The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency. *Sustainability*, 15, 12092.
 
-12. <span style="background-color:#f59e0b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ISKE 2023</span>  **Han, S.R.\***; Lu, H.T.; Wu, H. (2023). Topic Modelling of Collision Reports in Autonomous Driving Systems. *ISKE 2023* (Best Paper Award).
+12. <span style="background-color:#f59e0b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ISKE 2023</span>  **Han, S.R.\***; Lu, H.T.; Wu, H. (2023). TTopic Modelling of Collision Reports in Autonomous Driving Systems: Identification of Regulatory Concerns and Analysis of Spatiotemporal Evolution. *ISKE 2023* (Best Paper Award).
 
 13. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span>  **Han, S.R.** (2022). Self-regulatory Measures as Securities Regulation: The Saga of Antitakeover Regulation in China. *International Company and Commercial Law Review*, 33(6), 350.
 
