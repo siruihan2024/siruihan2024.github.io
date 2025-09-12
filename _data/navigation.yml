@@ -3,17 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Recent News"
-    url: "/#-recent-news"
+  - title: "Journal Articles"
+    url: "/#-journal-articles"
+
+  - title: "Top Computer Science Conference Proceedings"
+    url: "/#-top-computer-science-conference-proceedings"
 
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
-  - title: "Experience"
-    url: "/#-experience"
+  - title: "Services"
+    url: "/#-services"
 
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "Visiting Appointments"
+    url: "/#-visiting-appointments"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
