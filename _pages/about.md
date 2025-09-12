@@ -47,7 +47,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 15. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">GJCL 2015</span>  **Han, S.R.** et al. (2015). Making, Enforcing and Accessing the Law. *German Journal of Chinese Law*, 22(1).
 
-16. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Renmin Fazhi 2016</span>  **Han, S.R.** (2016). The “Hong Kong Experiences” on Credit Information Disclosure. *People’s Rule of Law (Renmin Fazhi)*, 9.
+16. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Renmin Fazhi 2016</span>  **Han, S.R.** (2016). The “Hong Kong Experiences” on Credit Information Disclosure for Nonpublic Corporations. *People’s Rule of Law (Renmin Fazhi)*, 9.
 
 17. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Beijing Arb. Quarterly 2015</span>  **Han, S.R.** (2015). Emergency Arbitrators in International Commercial Arbitration. *Journal of Beijing Arbitration Quarterly*, 90.
 
