@@ -25,18 +25,110 @@ My academic credentials are robust; I hold a Ph.D. in Law and an M.Sc. in Financ
 
 My research spans across AI Governance, Legal Tech, and the intersection of Law and Finance. I have demonstrated a strong aptitude for securing research funding, having played a pivotal role in acquiring grants totaling over 6 million HKD by the end of 2023. Beyond academia, I contribute my expertise to the discourse on innovation and technology development in the Greater Bay Area, with my analyses and opinions featured in the South China Morning Post, China Daily, and various esteemed media outlets.
 
+## 🔥 Academic Research
 
-# 🔥 Recent News
-- *2025.07*：  🎉🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525006852">**CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild**</a> accepted by **Information Fusion**.
-- *2025.07*： 🎉🎉 <a href="https://arxiv.org/abs/2504.12911">**Benchmarking multi-national value alignment for large language models**</a> published in **Findings of ACL 2025**.
-- *2025.07*：  🎉🎉 <a href="https://arxiv.org/abs/2505.19455">**Out-of-Distribution Detection via LLM-Guided Outlier Generation for Text-attributed Graph**</a> published in **Findings of ACL 2025**.
-- *2025.07*：  🎉🎉 <a href="https://arxiv.org/abs/2505.17433">**Boosting Policy and Process Reward Models with Monte Carlo Tree Search in Open-Domain QA**</a> published in **Findings of ACL 2025**.
-- *2025.06*：  🎉🎉 <a href="https://arxiv.org/abs/2505.18807">**Mitigating deceptive alignment via self-monitoring**</a> preprint released on arXiv.
-- *2025.06*：  🎉🎉 <a href="https://arxiv.org/abs/2505.20214">**The Mirage of Multimodality: Where Truth is Tested and Honesty Unravels**</a> preprint released on arXiv.
-- *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2505.11875">**J1: Exploring Simple Test-Time Scaling for LLM-as-a-Judge**</a> preprint released on arXiv.
-- *2025.05*：  🎉🎉 <a href="https://arxiv.org/abs/2503.12918">**Thinkpatterns-21k: A systematic study on the impact of thinking patterns in LLMs**</a> preprint released on arXiv.
-- *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a> preprint released on arXiv.
-- *2025.04*：  🎉🎉 <a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a> preprint released on arXiv.
+### Journal Articles
+6. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span>  **Han, S.R.**; Lu, H.T.; Wu, H. (2024). ESG Disclosure, Investor Awareness, and Carbon Risk Pricing. <a href="https://www.sciencedirect.com/journal/international-review-of-law-and-economics">*International Review of Law and Economics*</a> (forthcoming).
+
+7. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CAFR 2024</span>  **Han, S.R.**; Lu, H.T.; Wu, H. (2024). Revolutionizing Finance with Bitcoin and Blockchain. *China Accounting and Finance Review* (forthcoming).
+
+8. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2024</span>  **Han, S.R.** (2024). Harmonizing Arbitration Rules for Non-Signatories in International Trade. <a href="https://www.lexisnexis.co.uk/products/international-company-and-commercial-law-review">*International Company and Commercial Law Review*</a>, 2024(2), 90.
+
+9. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AJLE 2024</span>  **Han, S.R.** (2024). Does Antitakeover Provision Harm Shareholders? *Asian Journal of Law & Economics* (forthcoming).
+
+10. <span style="background-color:#059669; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Frontiers 2023</span>  Ye, F.F.; **Han, S.R.**; Lu, H.T. (2023). Carbon Emissions Management Efficiency Evaluation. <a href="https://www.frontiersin.org/journals/environmental-science">*Frontiers in Environmental Science*</a>, 11, 1301091.
+
+11. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Sustainability 2023</span>  Ye, F.F.; You, R.Y.; Lu, H.T.; **Han, S.R.**; Yang, L.H. (2023). The Classification Impact of Environmental Regulation. <a href="https://www.mdpi.com/journal/sustainability">*Sustainability*</a>, 15, 12092.
+
+12. <span style="background-color:#f59e0b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ISKE 2023</span>  **Han, S.R.**; Lu, H.T.; Wu, H. (2023). Topic Modelling of Collision Reports in Autonomous Driving Systems. *ISKE 2023* (Best Paper Award).
+
+13. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span>  **Han, S.R.** (2022). Self-regulatory Measures as Securities Regulation: Antitakeover in China. <a href="https://www.lexisnexis.co.uk/products/international-company-and-commercial-law-review">*International Company and Commercial Law Review*</a>, 33(6), 350.
+
+14. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">JCL 2016</span>  Zou, M.; Pan, X.M.; **Han, S.R.** (2016). Regulating Collective Labour Disputes in China. *Journal of Comparative Law*, 10, 276.
+
+15. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">GJCL 2015</span>  **Han, S.R.** et al. (2015). Making, Enforcing and Accessing the Law. *German Journal of Chinese Law*, 22(1).
+
+16. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Renmin Fazhi 2016</span>  **Han, S.R.** (2016). The “Hong Kong Experiences” on Credit Information Disclosure. *People’s Rule of Law (Renmin Fazhi)*, 9.
+
+17. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Beijing Arb. Quarterly 2015</span>  **Han, S.R.** (2015). Emergency Arbitrators in International Commercial Arbitration. *Journal of Beijing Arbitration Quarterly*, 90.
+
+18. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ERG 2011</span>  
+*Han, S.R.** (2011). The Ignorance of Customary Law: Reflections of Law and Society in Traditional China. *Economic Research Guide*, Nov 2011.
+
+### Top Computer Science Conference Proceedings
+19. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span>  <a href="https://doi.org/10.1145/3706599.3719762">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  Niu, R.; Hu, J.; Peng, S.; Cao, C.; Liu, C.; **Han, S.R.***; Guo, Y.*. In <a href="https://chi2025.acm.org/">CHI EA ’25</a>.  
+
+20. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  <a href="https://aclanthology.org/2025.acl-long.123/">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a>,  Shi, W.; Zhu, H.; Ji, J.; Li, M.; Zhang, J.; Zhang, R.; Zhu, J.; Xu, J.; **Han, S.R.***; Guo, Y.*. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
+
+21. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  **PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**,  Li, H.; Hu, W.; Jing, H.; Chen, Y.; Hu, Q.; **Han, S.R.***; Chu, T.; Hu, P.; Song, Y. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
+
+22. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  **FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation**,  Luo, J.; Kou, Z.; Yang, L.; Luo, X.; Huang, J.; Xiao, Z.; Peng, J.; Liu, C.; Ji, J.; Liu, X.; **Han, S.R.***; Zhang, M.*; Guo, Y. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
+
+23. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  **PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs**,  Ji, J.; Hong, D.; Zhang, B.; Chen, B.; Dai, J.; Zheng, B.; Qiu, T.A.; Zhou, J.; Wang, K.; Li, B.; **Han, S.R.**; Guo, Y.; Yang, Y. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
+
+24. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span>  **Boosting Policy and Process Reward Models with Monte Carlo Tree Search**, Chan, C.M.; Xu, C.; Zhu, J.; Ji, J.; Hong, D.; Wen, P.; Jiang, C.; Ye, Z.; Yang, Y.; Xue, W.; **Han, S.R.***; Guo, Y.*. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+
+25. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span>  **SafeLawBench: Towards Safe Alignment of Large Language Models**,  
+Cao, C.; Zhu, H.; Ji, J.; Sun, Q.; Zhu, Z.; Wu, Y.; Dai, J.; Yang, Y.; **Han, S.R.***; Guo, Y.*. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+
+26. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span>  **Out-of-Distribution Detection via LLM-Guided Outlier Generation**,  Lv, X.; Li, M.; Chen, J.; Dong, Z.; **Han, S.R.**; Liao, B. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+
+27. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span> **Benchmarking Multi-National Value Alignment for LLMs**,  Ju, C.; Shi, W.; Liu, C.; Ji, J.; Zhang, R.; Zhu, J.; Xu, J.; Yang, Y.; **Han, S.R.***; Guo, Y.*. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+
+28. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCV 2025</span>  **Efficient Fine-Tuning of Large Models via Nested Low-Rank Adaptation**,  Li, L.; Lin, C.; Li, D.; Huang, Y.; Li, W.; Wu, T.; Zou, J.; Xue, W.; **Han, S.R.***; Guo, Y.*. In <a href="https://iccv2025.thecvf.com/">ICCV 2025</a> (accepted).
+
+29. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCV 2025</span>  **AIRA: Activation-Informed Low-Rank Adaptation**,  Li, L.; Li, D.; Lin, C.; Li, W.; Xue, W.; **Han, S.R.***; Guo, Y.*. In <a href="https://iccv2025.thecvf.com/">ICCV 2025</a> (accepted).
+
+30. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCV 2025</span>  **DanceEditor: Iterative Editable Music-driven Dance Generation**,  Zhang, H.; Li, Z.; Qi, X.; Li, M.; Sun, M.; Wang, S.; Zhang, M.; **Han, S.R.***. In <a href="https://iccv2025.thecvf.com/">ICCV 2025</a> (accepted).
+
+31. <span style="background-color:#b91c1c; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACM MM 2025</span>  **Consistent and Invariant Generalization for Short-video Misinformation Detection**,  Guo, H.; Shi, W.; Li, M.; Li, J.; Chen, H.; Cui, Y.; Xu, J.; Zhu, J.; Shen, J.; Chen, Z.; **Han, S.R.***. In <a href="https://2025.acmmm.org/">ACM Multimedia 2025</a> (accepted).
+
+32. <span style="background-color:#b91c1c; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACM MM 2025</span>  **Outlier-Aware Model Merging for Efficient Multitask Inference**,  Zhu, Q.; Li, L.; Li, D.; Liu, J.; Cheng, P.; Xu, Y.; **Han, S.R.***; Guo, Y.*. In <a href="https://2025.acmmm.org/">ACM Multimedia 2025</a> (accepted).
+
+33. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">EMNLP 2025</span>  **Context Reasoner for Privacy and Safety Compliance**,  Hu, W.; Li, H.; Jing, H.; Hu, Q.; Zeng, Z.; **Han, S.R.**; Xu, H.; Chu, T.; Hu, P.; Song, Y. In <a href="https://2025.emnlp.org/">EMNLP 2025</a>.
+
+34. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">EMNLP 2025</span>  **DIDS: Domain Impact-aware Data Sampling**,  Shi, W.; Zhang, J.; Wu, Y.; Fang, J.; Zhang, S.; Zhao, Y.; Chen, H.; Cui, Y.; Zhang, R.; Zhu, J.; **Han, S.R.***; Xu, J.; Zhou, X. In <a href="https://2025.emnlp.org/">EMNLP 2025</a>.
+
+35. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">EMNLP 2025</span>  **Towards Advanced Mathematical Reasoning for LLMs**,  Cao, C.; Li, M.; Dai, J.; Yang, J.;
+
+# Selected Publications
+
+1. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  
+<a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a>,  
+Weijie Shi, Han Zhu, Jiaming Ji, Mengze Li, Jipeng Zhang, Ruiyuan Zhang, Jia Xu, Jiajie Xu, **Sirui Han**, Yike Guo  
+
+2. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  
+<a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a>,  
+Chuxue Cao, Han Zhu, Jiaming Ji, Qichao Sun, Zhenghao Zhu, Yinyu Wu, Juntao Dai, Yaodong Yang, **Sirui Han**, Yike Guo  
+
+3. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  
+<a href="https://arxiv.org/abs/2502.17041">**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**</a>,  
+Haoran Li, Wenbin Hu, Huihao Jing, Yulin Chen, Qi Hu, **Sirui Han**, Tianshu Chu, Peizhao Hu, Yangqiu Song  
+
+4. <span style="background-color:#22c55e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span>  
+<a href="https://dl.acm.org/doi/10.1145/3613905.3650880">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  
+Ruowen Niu, Jiaxiong Hu, Siyu Peng, Caleb Chen Cao, Chengzhong Liu, **Sirui Han**, Yike Guo  
+
+5. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span>  
+<a href="https://www.sciencedirect.com/science/article/pii/S0144818824000910">**ESG disclosure, investor awareness, and carbon risk pricing: Evidence from the Chinese market**</a>,  
+**Sirui Han**, Haitian Lu, Hao Wu  
+
+6. <span style="background-color:#059669; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Frontiers 2023</span>  
+<a href="https://www.frontiersin.org/articles/10.3389/fenvs.2023.123456">**Carbon emissions management efficiency evaluation based on indicator information integration and DEA-Malmquist index**</a>,  
+Fei Fei Ye, **Sirui Han**, Haitian Lu  
+
+7. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Sustainability 2023</span>  
+<a href="https://www.mdpi.com/2071-1050/15/15/12092">**The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency**</a>,  
+Fei Fei Ye, Rongyan You, Haitian Lu, **Sirui Han**, Longhao Yang  
+
+8. <span style="background-color:#d97706; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2023</span>  
+<a href="#">**Bitcoin and Blockchain: A Literature Review of Financial Economics Studies**</a>,  
+**Sirui Han**, Haitian Lu, Hao Wu  
+
+9. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span>  
+<a href="https://www.tandfonline.com/doi/full/10.1080/09546550.2022.2048274">**Self-regulatory Measures as Securities Regulation: The Saga of Antitakeover Regulation in China**</a>,  
+**Sirui Han**
+
 
 
 # 📝 Selected Publications
