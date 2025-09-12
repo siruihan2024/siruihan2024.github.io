@@ -6,8 +6,8 @@ main:
   - title: "Journal Articles"
     url: "/#-journal-articles"
 
-  - title: "Top Computer Science Conference Proceedings"
-    url: "/#-top-computer-science-conference-proceedings"
+  - title: "Top CS Proceedings"
+    url: "/#-top-cs-proceedings"
 
   - title: "Selected Publications"
     url: "/#-selected-publications"
