@@ -25,9 +25,8 @@ My academic credentials are robust; I hold a Ph.D. in Law and an M.Sc. in Financ
 
 My research spans across AI Governance, Legal Tech, and the intersection of Law and Finance. I have demonstrated a strong aptitude for securing research funding, having played a pivotal role in acquiring grants totaling over 6 million HKD by the end of 2023. Beyond academia, I contribute my expertise to the discourse on innovation and technology development in the Greater Bay Area, with my analyses and opinions featured in the South China Morning Post, China Daily, and various esteemed media outlets.
 
-## 🔥 Academic Research
 
-### Journal Articles
+# 📝 Journal Articles
 6. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span>  **Han, S.R.**; Lu, H.T.; Wu, H. (2024). ESG Disclosure, Investor Awareness, and Carbon Risk Pricing. <a href="https://www.sciencedirect.com/journal/international-review-of-law-and-economics">*International Review of Law and Economics*</a> (forthcoming).
 
 7. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CAFR 2024</span>  **Han, S.R.**; Lu, H.T.; Wu, H. (2024). Revolutionizing Finance with Bitcoin and Blockchain. *China Accounting and Finance Review* (forthcoming).
@@ -54,7 +53,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 18. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ERG 2011</span>  *Han, S.R.** (2011). The Ignorance of Customary Law: Reflections of Law and Society in Traditional China. *Economic Research Guide*, Nov 2011.
 
-### Top Computer Science Conference Proceedings
+# 📝 Top Computer Science Conference Proceedings
 19. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span>  <a href="https://doi.org/10.1145/3706599.3719762">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  Niu, R.; Hu, J.; Peng, S.; Cao, C.; Liu, C.; **Han, S.R.***; Guo, Y.*. In <a href="https://chi2025.acm.org/">CHI EA ’25</a>.  
 
 20. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  <a href="https://aclanthology.org/2025.acl-long.123/">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a>,  Shi, W.; Zhu, H.; Ji, J.; Li, M.; Zhang, J.; Zhang, R.; Zhu, J.; Xu, J.; **Han, S.R.***; Guo, Y.*. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
