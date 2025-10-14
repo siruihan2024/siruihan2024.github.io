@@ -71,12 +71,12 @@ In <a href="https://neurips.cc/virtual/2025/poster/119309">NeurIPS 2025</a>.
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://neurips.cc/virtual/2025/poster/121555"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
-Ruiyuan Zhang, Mengze Li, Han Zhu, Zhizhuo Kou, Sirui Han, Yike Guo.
+Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, Sirui Han, Brandon Feng.
 In <a href="https://neurips.cc/virtual/2025/poster/121555">NeurIPS 2025</a>.
 
 23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://neurips.cc/virtual/2025/poster/121844"><b>InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback</b></a>,
-Jiaming Ji, Boren Zheng, Jiayi Zhou, Kaile Wang, Boxun Li, Tianyi Alex Qiu, Sirui Han, Yike Guo.
+Boyuan Chen, Donghai Hong, Jiaming Ji, Jiacheng Zheng, Bowen Dong, Jiayi Zhou, Kaile Wang, Juntao Dai, Xuyao Wang, Wenqi Chen, Qirui Zheng, Wenxin Li, Sirui Han, Yike Guo, Yaodong Yang.
 In <a href="https://neurips.cc/virtual/2025/poster/121844">NeurIPS 2025</a>.
 
 24. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span>  <a href="https://doi.org/10.1145/3706599.3719762">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; **Han, Sirui\***; Guo, Yike*. In <a href="https://chi2025.acm.org/">CHI EA ’25</a>.  
