@@ -60,7 +60,7 @@ Ji, Jiaming; Chen, Xinyu; Pan, Rui; Zhang, Conghui; Zhu, Han; Li, Jiahao; Hong, 
 In <a href="https://neurips.cc/virtual/2025/poster/118304">NeurIPS 2025</a>.
 
 20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
-<a href="https://arxiv.org/abs/2506.23601"<b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
+<a href="https://arxiv.org/abs/2506.23601"><b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
 Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; Han, Sirui; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang.
 In <a href="https://neurips.cc/virtual/2025/poster/118872">NeurIPS 2025</a>. 
 
