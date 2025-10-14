@@ -60,15 +60,24 @@ Ji, Jiaming; Chen, Xinyu; Pan, Rui; Zhang, Conghui; Zhu, Han; Li, Jiahao; Hong, 
 In <a href="[https://neurips.cc/Conferences/2025](https://neurips.cc/virtual/2025/poster/118304">NeurIPS 2025</a>.
 
 20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
-<a href="https://arxiv.org/abs/2506.23601">arXiv:2506.23601</a><b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
+<a href="https://arxiv.org/abs/2506.23601">arXiv:2506.23601<b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
 Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; Han, Sirui; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang.
 In <a href="https://neurips.cc/virtual/2025/poster/118872">NeurIPS 2025</a>. 
 
-21. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span> <a href="https://arxiv.org/abs/2505.18531"><b>Learning Principles from Multi-modal Human Preference</b></a>, Jiaming Ji, Xinyu Chen, Rui Pan, Conghui Zhang, Han Zhu, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Yida Tang, *Sirui Han*, Yike Guo, Yaodong Yang. In NeurIPS 2025.
+21. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
+<a href="https://arxiv.org/abs/2505.18531"><b>Learning Principles from Multi-modal Human Preference</b></a>,
+Jiaming Ji, Xinyu Chen, Rui Pan, Conghui Zhang, Han Zhu, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Yida Tang, Sirui Han, Yike Guo, Yaodong Yang.
+In <a href="https://neurips.cc/virtual/2025/poster/119309">NeurIPS 2025</a>.
 
-22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span> <a href="https://neurips.cc/virtual/2025/poster/121555"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>, Zhang, Ruiyuan; Li, Mengze; Zhu, Han; Kou, Zhizhuo; Han, Sirui*; Guo, Yike*. In <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>.
+22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
+<a href="https://neurips.cc/virtual/2025/poster/121555"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
+Ruiyuan Zhang, Mengze Li, Han Zhu, Zhizhuo Kou, Sirui Han, Yike Guo.
+In <a href="https://neurips.cc/virtual/2025/poster/121555">NeurIPS 2025</a>.
 
-23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span> <a href="https://neurips.cc/virtual/2025/poster/121844"><b>InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback</b></a>, Ji, Jiaming; Zheng, Boren; Zhou, Jiayi; Wang, Kaile; Li, Boxun; Qiu, Tianyi Alex; Han, Sirui*; Guo, Yike*. In <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>.
+23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
+<a href="https://neurips.cc/virtual/2025/poster/121844"><b>InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback</b></a>,
+Jiaming Ji, Boren Zheng, Jiayi Zhou, Kaile Wang, Boxun Li, Tianyi Alex Qiu, Sirui Han, Yike Guo.
+In <a href="https://neurips.cc/virtual/2025/poster/121844">NeurIPS 2025</a>.
 
 24. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span>  <a href="https://doi.org/10.1145/3706599.3719762">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; **Han, Sirui\***; Guo, Yike*. In <a href="https://chi2025.acm.org/">CHI EA ’25</a>.  
 
