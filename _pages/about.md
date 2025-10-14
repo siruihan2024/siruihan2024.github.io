@@ -54,9 +54,15 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 18. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ERG 2011</span>  *Han, S.R.* (2011). The Ignorance of Customary Law: Reflections of Law and Society in Traditional China. *Economic Research Guide*, Nov 2011.
 
 # 📝 Top CS Proceedings
-19. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span> <a href="https://neurips.cc/virtual/2025/poster/118304"><b>Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback</b></a>, Jiaming Ji, Xinyu Chen, Rui Pan, Conghui Zhang, Han Zhu, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Yida Tang, <i>Sirui Han</i>, Yike Guo, Yaodong Yang. In NeurIPS 2025. [<a href="https://arxiv.org/abs/2503.17682">arXiv:2503.17682</a>]
+19. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
+<a href="https://arxiv.org/abs/2503.17682"><b>Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback</b></a>,
+Ji, Jiaming; Chen, Xinyu; Pan, Rui; Zhang, Conghui; Zhu, Han; Li, Jiahao; Hong, Donghai; Chen, Boyuan; Zhou, Jiayi; Wang, Kaile; Dai, Juntao; Chan, Chi-Min; Tang, Yida; Han, Sirui; Guo, Yike; Yang, Yaodong.
+In <a href="[https://neurips.cc/Conferences/2025](https://neurips.cc/virtual/2025/poster/118304">NeurIPS 2025</a>.
 
-20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span> <b>Semantic-guided Diverse Decoding for Large Language Model</b>, Xu, Chunpu; Zhu, Han; Zhang, Jipeng; Liu, Chengzhong; Han, Sirui*; Guo, Yike*. In NeurIPS 2025.
+20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
+<a href="https://arxiv.org/abs/2506.23601">arXiv:2506.23601</a><b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
+Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; Han, Sirui; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang.
+In <a href="https://neurips.cc/virtual/2025/poster/118872">NeurIPS 2025</a>. 
 
 21. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span> <a href="https://arxiv.org/abs/2505.18531"><b>Learning Principles from Multi-modal Human Preference</b></a>, Jiaming Ji, Xinyu Chen, Rui Pan, Conghui Zhang, Han Zhu, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Yida Tang, *Sirui Han*, Yike Guo, Yaodong Yang. In NeurIPS 2025.
 
