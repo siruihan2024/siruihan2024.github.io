@@ -67,10 +67,10 @@ In <a href="https://neurips.cc/virtual/2025/poster/118872">NeurIPS 2025</a>.
 21. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2505.18531"><b>Learning Principles from Multi-modal Human Preference</b></a>,
 Jiaming Ji, Xinyu Chen, Rui Pan, Conghui Zhang, Han Zhu, Jiahao Li, Donghai Hong, Boyuan Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Chi-Min Chan, Yida Tang, Sirui Han, Yike Guo, Yaodong Yang.
-In <a href="https://neurips.cc/virtual/2025/poster/119309">NeurIPS 2025</a>.
+In <a href="https://neurips.cc/virtual/2025/poster/119087">NeurIPS 2025</a>.
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
-<a href="https://neurips.cc/virtual/2025/poster/121555"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
+<a href="https://arxiv.org/abs/2505.23950"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
 Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, Sirui Han, Brandon Feng.
 In <a href="https://neurips.cc/virtual/2025/poster/121555">NeurIPS 2025</a>.
 
