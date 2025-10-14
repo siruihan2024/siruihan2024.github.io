@@ -71,7 +71,7 @@ In <a href="https://neurips.cc/virtual/2025/poster/119087">NeurIPS 2025</a>.
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2506.23329"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
-Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, **Sirui Han\***, Brandon Feng*.
+Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, **Sirui Han\***, Brandon Y. Feng*.
 In <a href="https://neurips.cc/virtual/2025/poster/121555">NeurIPS 2025</a>.
 
 23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
