@@ -56,27 +56,27 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 # 📝 Top CS Proceedings
 19. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2503.17682"><b>Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback</b></a>,
-Ji, Jiaming; Chen, Xinyu; Pan, Rui; Zhang, Conghui; Zhu, Han; Li, Jiahao; Hong, Donghai; Chen, Boyuan; Zhou, Jiayi; Wang, Kaile; Dai, Juntao; Chan, Chi-Min; Tang, Yida; Han, Sirui; Guo, Yike; Yang, Yaodong.
+Ji, Jiaming; Chen, Xinyu; Pan, Rui; Zhang, Conghui; Zhu, Han; Li, Jiahao; Hong, Donghai; Chen, Boyuan; Zhou, Jiayi; Wang, Kaile; Dai, Juntao; Chan, Chi-Min; Tang, Yida; *Han, Sirui*; Guo, Yike; Yang, Yaodong.
 In <a href="https://neurips.cc/virtual/2025/poster/118304">NeurIPS 2025</a>.
 
 20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2506.23601"><b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
-Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; Han, Sirui; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang.
+Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; *Han, Sirui*; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang.
 In <a href="https://neurips.cc/virtual/2025/poster/118872">NeurIPS 2025</a>. 
 
 21. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2505.18531"><b>Learning Principles from Multi-modal Human Preference</b></a>,
-Jiayi Zhou, Jiaming Ji, Boyuan Chen, Jiapeng Sun, Wenqi Chen, Donghai Hong, Sirui Han, Yike Guo, Yaodong Yang.
+Jiayi Zhou, Jiaming Ji, Boyuan Chen, Jiapeng Sun, Wenqi Chen, Donghai Hong, *Sirui Han*, Yike Guo, Yaodong Yang.
 In <a href="https://neurips.cc/virtual/2025/poster/119087">NeurIPS 2025</a>.
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2506.23329"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
-Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, Sirui Han, Brandon Feng.
+Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, *Sirui Han*, Brandon Feng.
 In <a href="https://neurips.cc/virtual/2025/poster/121555">NeurIPS 2025</a>.
 
 23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2505.23950"><b>InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback</b></a>,
-Boyuan Chen, Donghai Hong, Jiaming Ji, Jiacheng Zheng, Bowen Dong, Jiayi Zhou, Kaile Wang, Juntao Dai, Xuyao Wang, Wenqi Chen, Qirui Zheng, Wenxin Li, Sirui Han, Yike Guo, Yaodong Yang.
+Boyuan Chen, Donghai Hong, Jiaming Ji, Jiacheng Zheng, Bowen Dong, Jiayi Zhou, Kaile Wang, Juntao Dai, Xuyao Wang, Wenqi Chen, Qirui Zheng, Wenxin Li, *Sirui Han*, Yike Guo, Yaodong Yang.
 In <a href="https://neurips.cc/virtual/2025/poster/121844">NeurIPS 2025</a>.
 
 24. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span>  <a href="https://doi.org/10.1145/3706599.3719762">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; **Han, Sirui\***; Guo, Yike*. In <a href="https://chi2025.acm.org/">CHI EA ’25</a>.  
