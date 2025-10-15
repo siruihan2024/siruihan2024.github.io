@@ -60,7 +60,7 @@ In <a href="https://neurips.cc/virtual/2025/poster/118304">NeurIPS 2025</a>.
 
 20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2506.23601"><b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
-Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; **Han, Sirui**; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang.
+Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; **Han, Sirui\***; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang*.
 In <a href="https://neurips.cc/virtual/2025/poster/118872">NeurIPS 2025</a>. 
 
 21. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
@@ -70,7 +70,7 @@ In <a href="https://neurips.cc/virtual/2025/poster/119087">NeurIPS 2025</a>.
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2506.23329"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
-Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, **Sirui Han**, Brandon Feng.
+Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, **Sirui Han\***, Brandon Y. Feng*.
 In <a href="https://neurips.cc/virtual/2025/poster/121555">NeurIPS 2025</a>.
 
 23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
@@ -121,21 +121,161 @@ Capability for Contextualized Privacy and Safety Compliance via Reinforcement Le
 
 
 # 📝 Selected Publications
-1. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2506.07443">**LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning**</a>,  
-Shi, Weijie; Zhu, Han; Ji, Jiaming; Li, Mengze; Zhang, Jipeng; Zhang, Ruiyuan; Xu, Jia; Xu, Jiajie; **Han, Sirui**; Guo, Yike  
-2. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2506.06636">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a>,  
-Cao, Chuxue; Zhu, Han; Ji, Jiaming; Sun, Qichao; Zhu, Zhenghao; Wu, Yinyu; Dai, Juntao; Yang, Yaodong; **Han, Sirui**; Guo, Yike  
-3. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://arxiv.org/abs/2502.17041">**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**</a>,  
-Li, Haoran; Hu, Wenbin; Jing, Huihao; Chen, Yulin; Hu, Qi; **Han, Sirui**; Chu, Tianshu; Hu, Peizhao; Song, Yangqiu  
-4. <span style="background-color:#22c55e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI EA 2025</span> <a href="https://dl.acm.org/doi/10.1145/3613905.3650880">**Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents**</a>,  
-Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; **Han, Sirui**; Guo, Yike  
-5. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span> <a href="https://www.sciencedirect.com/science/article/pii/S0144818824000910">**ESG disclosure, investor awareness, and carbon risk pricing: Evidence from the Chinese market**</a>,  
-**Han, Sirui**; Lu, Haitian; Wu, Hao   
-6. <span style="background-color:#059669; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Frontiers 2023</span> <a href="https://www.frontiersin.org/articles/10.3389/fenvs.2023.123456">**Carbon emissions management efficiency evaluation based on indicator information integration and DEA-Malmquist index**</a>,  Ye, Fei Fei; **Han, Sirui**; Lu, Haitian 
-7. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Sustainability 2023</span> <a href="https://www.mdpi.com/2071-1050/15/15/12092">**The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency**</a>,  Ye, Fei Fei; You, Rongyan; Lu, Haitian; **Han, Sirui**; Yang, Longhao 
-8. <span style="background-color:#d97706; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2023</span> <a href="#">**Bitcoin and Blockchain: A Literature Review of Financial Economics Studies**</a>, **Han, Sirui**; Lu, Haitian; Wu, Hao   
-9. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span> <a href="https://www.tandfonline.com/doi/full/10.1080/09546550.2022.2048274">**Self-regulatory Measures as Securities Regulation: The Saga ofAntitakeover Regulation in China**</a>, 
-**Han, Sirui**
+
+<div class="publication-list">
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/legalreasoner.png' | relative_url }}" alt="LegalReasoner cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#1e3a8a;">ACL 2025</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://arxiv.org/abs/2506.07443">LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning</a>
+      </h3>
+      <p class="publication-card__authors">
+        Shi, Weijie; Zhu, Han; Ji, Jiaming; Li, Mengze; Zhang, Jipeng; Zhang, Ruiyuan; Xu, Jia; Xu, Jiajie; <strong>Han, Sirui</strong>; Guo, Yike
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/safelawbench.png' | relative_url }}" alt="SafeLawBench cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#1e3a8a;">ACL 2025</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://arxiv.org/abs/2506.06636">SafeLawBench: Towards Safe Alignment of Large Language Models</a>
+      </h3>
+      <p class="publication-card__authors">
+        Cao, Chuxue; Zhu, Han; Ji, Jiaming; Sun, Qichao; Zhu, Zhenghao; Wu, Yinyu; Dai, Juntao; Yang, Yaodong; <strong>Han, Sirui</strong>; Guo, Yike
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/privaci-bench.png' | relative_url }}" alt="PrivaCI-Bench cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#1e3a8a;">ACL 2025</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://arxiv.org/abs/2502.17041">PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance</a>
+      </h3>
+      <p class="publication-card__authors">
+        Li, Haoran; Hu, Wenbin; Jing, Huihao; Chen, Yulin; Hu, Qi; <strong>Han, Sirui</strong>; Chu, Tianshu; Hu, Peizhao; Song, Yangqiu
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/scenario-role.png' | relative_url }}" alt="Scenario, Role, and Persona cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#22c55e;">CHI EA 2025</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://dl.acm.org/doi/10.1145/3706599.3719762">Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents</a>
+      </h3>
+      <p class="publication-card__authors">
+        Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; <strong>Han, Sirui</strong>; Guo, Yike
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/esg-risk-pricing.png' | relative_url }}" alt="ESG disclosure cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#2563eb;">IRLE 2024</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0144818824000910">ESG disclosure, investor awareness, and carbon risk pricing: Evidence from the Chinese market</a>
+      </h3>
+      <p class="publication-card__authors">
+        <strong>Han, Sirui</strong>; Lu, Haitian; Wu, Hao
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/carbon-efficiency.png' | relative_url }}" alt="Carbon emissions management cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#059669;">Frontiers 2023</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1301091/full">Carbon emissions management efficiency evaluation based on indicator information integration and DEA-Malmquist index</a>
+      </h3>
+      <p class="publication-card__authors">
+        Ye, Fei Fei; <strong>Han, Sirui</strong>; Lu, Haitian
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/environmental-regulation.png' | relative_url }}" alt="Environmental regulation cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#16a34a;">Sustainability 2023</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://www.emerald.com/cafr/article/26/4/413/1236216/Revolutionizing-finance-with-bitcoin-and">The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency</a>
+      </h3>
+      <p class="publication-card__authors">
+        Ye, Fei Fei; You, Rongyan; Lu, Haitian; <strong>Han, Sirui</strong>; Yang, Longhao
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/bitcoin-blockchain.png' | relative_url }}" alt="Bitcoin and Blockchain review cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#d97706;">ICCLR 2023</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://www.emerald.com/cafr/article/26/4/413/1236216/Revolutionizing-finance-with-bitcoin-and">Bitcoin and Blockchain: A Literature Review of Financial Economics Studies</a>
+      </h3>
+      <p class="publication-card__authors">
+        <strong>Han, Sirui</strong>; Lu, Haitian; Wu, Hao
+      </p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-card__image">
+      <img src="{{ 'images/publications/securities-regulation.png' | relative_url }}" alt="Self-regulatory Measures cover">
+    </div>
+    <div class="publication-card__body">
+      <div class="publication-card__meta">
+        <span class="publication-card__badge" style="background-color:#dc2626;">ICCLR 2022</span>
+      </div>
+      <h3 class="publication-card__title">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/09546550.2022.2048274">Self-regulatory Measures as Securities Regulation: The Saga of Antitakeover Regulation in China</a>
+      </h3>
+      <p class="publication-card__authors">
+        <strong>Han, Sirui</strong>
+      </p>
+    </div>
+  </article>
+</div>
 
 <span class='anchor' id='team'></span>
 
