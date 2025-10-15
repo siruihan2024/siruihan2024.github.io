@@ -12,6 +12,9 @@ main:
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
+  - title: "Team"
+    url: "/#team"
+
   - title: "Experience"
     url: "/#-experience"
 
