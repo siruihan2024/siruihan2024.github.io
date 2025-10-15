@@ -25,7 +25,6 @@ My academic credentials are robust; I hold a Ph.D. in Law and an M.Sc. in Financ
 
 My research spans across AI Governance, Legal Tech, and the intersection of Law and Finance. I have demonstrated a strong aptitude for securing research funding, having played a pivotal role in acquiring grants totaling over 6 million HKD by the end of 2023. Beyond academia, I contribute my expertise to the discourse on innovation and technology development in the Greater Bay Area, with my analyses and opinions featured in the South China Morning Post, China Daily, and various esteemed media outlets.
 
-
 # 📝 Journal Articles
 6. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span>  **Han, S.R.\***; Lu, H.T.; Wu, H. (2024). ESG Disclosure, Investor Awareness, and Carbon Risk Pricing. <a href="https://www.sciencedirect.com/journal/international-review-of-law-and-economics">*International Review of Law and Economics*</a>.
 
@@ -61,7 +60,7 @@ In <a href="https://neurips.cc/virtual/2025/poster/118304">NeurIPS 2025</a>.
 
 20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2506.23601"><b>Semantic-guided Diverse Decoding for Large Language Model</b></a>,
-Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; **Han, Sirui\***; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang*.
+Shi, Weijie; Cui, Yue; Wu, Yaguang; Fang, Jingzhi; Zhang, Shibo; Li, Mengze; **Han, Sirui**; Zhu, Jia; Xu, Jiajie; Zhou, Xiaofang.
 In <a href="https://neurips.cc/virtual/2025/poster/118872">NeurIPS 2025</a>. 
 
 21. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
@@ -71,7 +70,7 @@ In <a href="https://neurips.cc/virtual/2025/poster/119087">NeurIPS 2025</a>.
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2506.23329"><b>IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering</b></a>,
-Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, **Sirui Han\***, Brandon Y. Feng*.
+Hengyu Liu, Chenxin Li, Zhengxin Li, Yipeng Wu, Wuyang Li, Zhiqin Yang, Zhenyuan Zhang, Yunlong Lin, **Sirui Han**, Brandon Feng.
 In <a href="https://neurips.cc/virtual/2025/poster/121555">NeurIPS 2025</a>.
 
 23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
@@ -137,6 +136,28 @@ Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; **Han, 
 8. <span style="background-color:#d97706; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2023</span> <a href="#">**Bitcoin and Blockchain: A Literature Review of Financial Economics Studies**</a>, **Han, Sirui**; Lu, Haitian; Wu, Hao   
 9. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span> <a href="https://www.tandfonline.com/doi/full/10.1080/09546550.2022.2048274">**Self-regulatory Measures as Securities Regulation: The Saga ofAntitakeover Regulation in China**</a>, 
 **Han, Sirui**
+
+<span class='anchor' id='team'></span>
+
+# 🤝 Team
+
+<div class="team-section">
+{% for group in site.data.team.groups %}
+  <div class="team-group">
+    <h2 class="team-group__title">{{ group.title }}</h2>
+    <ul class="team-list">
+    {% for member in group.members %}
+      <li class="team-list__item">
+        <span class="team-list__name">{{ member.name }}</span>
+        {% if member.note %}
+        <span class="team-list__note">{{ member.note }}</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
+</div>
 
 # 📝 Experience 
 <div class='paper-box'>
