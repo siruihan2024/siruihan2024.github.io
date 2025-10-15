@@ -159,6 +159,98 @@
     font-size: $type-size-7;
     color: mix(#000, $text-color, 35%);
   }
+
+  .publication-list {
+    display: grid;
+    gap: 1.25rem;
+    margin: 1.5rem 0 2.5rem;
+  }
+
+  .publication-card {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: mix(#fff, $background-color, 90%);
+    box-shadow: 0 12px 28px -24px rgba(#000, 0.35);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    @include breakpoint(max-width $small) {
+      flex-direction: column;
+    }
+  }
+
+  .publication-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 16px 32px -26px rgba(#000, 0.4);
+  }
+
+  .publication-card__image {
+    flex: 0 0 160px;
+    max-width: 160px;
+    border-radius: $border-radius;
+    overflow: hidden;
+    background: $lighter-gray;
+
+    @include breakpoint(max-width $small) {
+      width: 100%;
+      max-width: 100%;
+    }
+  }
+
+  .publication-card__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .publication-card__body {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .publication-card__meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: $type-size-7;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: mix(#000, $text-color, 35%);
+  }
+
+  .publication-card__badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.6rem;
+    border-radius: $border-radius;
+    font-size: $type-size-7;
+    font-weight: 600;
+    color: #fff;
+  }
+
+  .publication-card__title {
+    margin: 0;
+    font-size: $type-size-4;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .publication-card__authors {
+    margin: 0;
+    font-size: $type-size-6;
+    color: mix(#000, $text-color, 10%);
+  }
 }
 
 .page__hero {
