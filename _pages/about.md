@@ -410,5 +410,5 @@ Postdoc Fellow, September 2019 – August 2021
 # 🌐 Visitor Map
 
 <div class="visitor-map">
-  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=mFgOLmUTbUCcc21odWsbAbZ7d70QgJWJL5PuDzpWurw"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=mFgOLmUTbUCcc21odWsbAbZ7d70QgJWJL5PuDzpWurw"></script>
 </div>
