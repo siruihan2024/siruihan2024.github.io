@@ -53,6 +53,7 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 18. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ERG 2011</span>  *Han, S.R.* (2011). The Ignorance of Customary Law: Reflections of Law and Society in Traditional China. *Economic Research Guide*, Nov 2011.
 
 # 📝 Top CS Proceedings
+
 19. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AAAI 2026</span>  <a href="https://arxiv.org/abs/2506.23266">**Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging**</a>,  Lujun Li, Zhu Qiyuan, Jiacheng Wang, Wei Li, Hao Gu, **Sirui Han\***, Yike Guo\*. In <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
 
 20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AAAI 2026</span>  **Outlier Matters: Efficient Long-to-Short Reasoning via Outlier-Guided Model Merging**,  **Han, Sirui\***; et al. In <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
