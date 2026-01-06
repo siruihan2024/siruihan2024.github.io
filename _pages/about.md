@@ -425,6 +425,6 @@ Postdoc Fellow, September 2019 – August 2021
 # 🌐 Visitor Map
 
 <div class="visitor-map">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BGALpSWwWqDuRUSLYeHRQPrVIsiddImoGjdtZETdVDM&cl=ffffff&w=a"></script>
-
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=F5uNShR_HZX_fBlypcLNyLiIhN1edcVQ0Z7mS4nlB_g&cl=ffffff&w=a"></script>
+  <!-- <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=_uz9EwfoLlhIhyxEda-NjuUQtV7KAyWbHnTacemfD5A"></script> -->
 </div>
