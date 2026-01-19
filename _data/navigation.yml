@@ -9,6 +9,9 @@ main:
   - title: "Top CS Proceedings"
     url: "/#-top-cs-proceedings"
 
+  - title: "Top CSS Proceedings"
+    url: "/#-top-computational-social-science-proceedings"
+
   - title: "Selected Publications"
     url: "/#-selected-publications"
 

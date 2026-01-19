@@ -30,35 +30,41 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 2. <span style="background-color:#1e40af; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IHRLR 2026</span>  Li, R.X.; **Han, S.R.\***; Guo, Y.K. (2026). Simulated Justice: How AI Alignment Replaces Conflict with Coherence. *Intercultural Human Rights Law Review* (forthcoming).
 
-3. <span style="background-color:#0f766e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Information Fusion 2025</span>  Qi, X.Q.; Zhang, H.Y; Wang, Y.T.; Pan, J.H.; Liu, C.; Sun, M.; Wei, X.; Zhang, S.H.; **Han, S.R.\***; Liu, Q.; Guo, Y.K.\* (2025). CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild. *Information Fusion*, 103613.
+3. <span style="background-color:#1e40af; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">UCLA JLT 2026</span>  Li, R.X.; **Han, S.R.\***; Guo, Y.K. (2026). When AI Sounds Judicious: How AI Alignment Mimic Procedure While Evading Accountability. *UCLA Journal of Law & Technology* (forthcoming).
 
-4. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span>  **Han, S.R.\***; Lu, H.T.; Wu, H. (2024). ESG Disclosure, Investor Awareness, and Carbon Risk Pricing. <a href="https://www.sciencedirect.com/journal/international-review-of-law-and-economics">*International Review of Law and Economics*</a>.
+4. <span style="background-color:#0f766e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Information Fusion 2025</span>  Qi, X.Q.; Zhang, H.Y; Wang, Y.T.; Pan, J.H.; Liu, C.; Sun, M.; Wei, X.; Zhang, S.H.; **Han, S.R.\***; Liu, Q.; Guo, Y.K.\* (2025). CoCoGesture: Towards coherent co-speech 3D gesture generation in the wild. *Information Fusion*, 103613.
 
-5. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CAFR 2024</span>  **Han, S.R.\***(*corresponding author*); Lu, H.T.; Wu, H. (2024). Revolutionizing Finance with Bitcoin and Blockchain: A Literature Review and Research Agenda. *China Accounting and Finance Review*.
+5. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">IRLE 2024</span>  **Han, S.R.\***; Lu, H.T.; Wu, H. (2024). ESG Disclosure, Investor Awareness, and Carbon Risk Pricing. <a href="https://www.sciencedirect.com/journal/international-review-of-law-and-economics">*International Review of Law and Economics*</a>.
 
-6. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2024</span>  **Han, S.R.** (2024). Harmonizing Arbitration Rules for Non-Signatories in International Trade: Integrating Charterparty Arbitration Clauses into Bills of Lading. *International Company and Commercial Law Review*, 2024(2), 90.
+6. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CAFR 2024</span>  **Han, S.R.\***(*corresponding author*); Lu, H.T.; Wu, H. (2024). Revolutionizing Finance with Bitcoin and Blockchain: A Literature Review and Research Agenda. *China Accounting and Finance Review*.
 
-7. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AJLE 2024</span>  **Han, S.R.** (2024). Does Antitakeover Provision Harm Shareholders? *Asian Journal of Law & Economics*.
+7. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2024</span>  **Han, S.R.** (2024). Harmonizing Arbitration Rules for Non-Signatories in International Trade: Integrating Charterparty Arbitration Clauses into Bills of Lading. *International Company and Commercial Law Review*, 2024(2), 90.
 
-8. <span style="background-color:#059669; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Frontiers 2023</span>  Ye, F.F.; **Han, S.R.\*** (*corresponding author*); Lu, H.T. (2023). Carbon Emissions Management Efficiency Evaluation based on Indicator Information Integration and DEA-Malmquist Index. *Frontiers in Environmental Science*, 11, 1301091.
+8. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AJLE 2024</span>  **Han, S.R.** (2024). Does Antitakeover Provision Harm Shareholders? *Asian Journal of Law & Economics*.
 
-9. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Sustainability 2023</span>  Ye, F.F.; You, R.Y.; Lu, H.T.;**Han, S.R.\*** (*corresponding author*); Yang, L.H. (2023). The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency. *Sustainability*, 15, 12092.
+9. <span style="background-color:#059669; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Frontiers 2023</span>  Ye, F.F.; **Han, S.R.\*** (*corresponding author*); Lu, H.T. (2023). Carbon Emissions Management Efficiency Evaluation based on Indicator Information Integration and DEA-Malmquist Index. *Frontiers in Environmental Science*, 11, 1301091.
 
-10. <span style="background-color:#f59e0b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ISKE 2023</span>  **Han, S.R.\***; Lu, H.T.; Wu, H. (2023). TTopic Modelling of Collision Reports in Autonomous Driving Systems: Identification of Regulatory Concerns and Analysis of Spatiotemporal Evolution. *ISKE 2023* (Best Paper Award).
+10. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Sustainability 2023</span>  Ye, F.F.; You, R.Y.; Lu, H.T.;**Han, S.R.\*** (*corresponding author*); Yang, L.H. (2023). The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency. *Sustainability*, 15, 12092.
 
-11. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span>  **Han, S.R.** (2022). Self-regulatory Measures as Securities Regulation: The Saga of Antitakeover Regulation in China. *International Company and Commercial Law Review*, 33(6), 350.
+11. <span style="background-color:#f59e0b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ISKE 2023</span>  **Han, S.R.\***; Lu, H.T.; Wu, H. (2023). TTopic Modelling of Collision Reports in Autonomous Driving Systems: Identification of Regulatory Concerns and Analysis of Spatiotemporal Evolution. *ISKE 2023* (Best Paper Award).
 
-12. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">JCL 2016</span>  Zou, M.; Pan, X.M.; **Han, S.R.** (2016). Regulating Collective Labour Disputes in China. *Journal of Comparative Law*, 10, 276.
+12. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCLR 2022</span>  **Han, S.R.** (2022). Self-regulatory Measures as Securities Regulation: The Saga of Antitakeover Regulation in China. *International Company and Commercial Law Review*, 33(6), 350.
 
-13. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">GJCL 2015</span>  **Han, S.R.** et al. (2015). Making, Enforcing and Accessing the Law. *German Journal of Chinese Law*, 22(1).
+13. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">JCL 2016</span>  Zou, M.; Pan, X.M.; **Han, S.R.** (2016). Regulating Collective Labour Disputes in China. *Journal of Comparative Law*, 10, 276.
 
-14. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Renmin Fazhi 2016</span>  **Han, S.R.** (2016). The “Hong Kong Experiences” on Credit Information Disclosure for Nonpublic Corporations. *People’s Rule of Law (Renmin Fazhi)*, 9.
+14. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">GJCL 2015</span>  **Han, S.R.** et al. (2015). Making, Enforcing and Accessing the Law. *German Journal of Chinese Law*, 22(1).
 
-15. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Beijing Arb. Quarterly 2015</span>  **Han, S.R.** (2015). Emergency Arbitrators in International Commercial Arbitration. *Journal of Beijing Arbitration Quarterly*, 90.
+15. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Renmin Fazhi 2016</span>  **Han, S.R.** (2016). The “Hong Kong Experiences” on Credit Information Disclosure for Nonpublic Corporations. *People’s Rule of Law (Renmin Fazhi)*, 9.
 
-16. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ERG 2011</span>  *Han, S.R.* (2011). The Ignorance of Customary Law: Reflections of Law and Society in Traditional China. *Economic Research Guide*, Nov 2011.
+16. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Beijing Arb. Quarterly 2015</span>  **Han, S.R.** (2015). Emergency Arbitrators in International Commercial Arbitration. *Journal of Beijing Arbitration Quarterly*, 90.
+
+17. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ERG 2011</span>  *Han, S.R.* (2011). The Ignorance of Customary Law: Reflections of Law and Society in Traditional China. *Economic Research Guide*, Nov 2011.
 
 # 📝 Top CS Proceedings
+17. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI 2026</span>  **CareerCraft: Supporting New Graduates on Job Hunting with LLM-Assisted Self-Construction of Career Profile**,  Xinyue Qi, Chengzhong Liu, Xiangyu Long, Zhizhuo Kou, **Sirui Han\***, Yike Guo\*. In <a href="https://chi2026.acm.org/">CHI 2026</a>.
+
+18. <span style="background-color:#16a34a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">CHI 2026</span>  **Reimagining Legal Fact Verification with GenAI: Toward Effective Human-AI Collaboration**,  **Sirui Han**, Yuyao Zhang, Yidan Huang, Xueyan Li, Chengzhong Liu, Yike Guo\*. In <a href="https://chi2026.acm.org/">CHI 2026</a>.
+
 19. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AAAI 2026</span>  <a href="https://arxiv.org/abs/2506.23266">**Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging**</a>,  Lujun Li, Zhu Qiyuan, Jiacheng Wang, Wei Li, Hao Gu, **Sirui Han\***, Yike Guo\*. In <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
 
 20. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AAAI 2026</span>  **Outlier Matters: Efficient Long-to-Short Reasoning via Outlier-Guided Model Merging**,  **Han, Sirui\***; et al. In <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
@@ -132,8 +138,15 @@ Capability for Contextualized Privacy and Safety Compliance via Reinforcement Le
 
 41. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">EMNLP 2025</span>  **Automate Strategy Finding with LLM in Quant Investment**,  Kou, Zhizhuo; Yu, Holam; Luo, Junyu; Peng, Jingshu; Li, Xujia; Liu, Chengzhong; Dai, Juntao; Chen, Lei; **Han, Sirui\***; **Guo, Yike\*** Accepted to <a href="https://2025.emnlp.org/">*EMNLP 2025*</a> (Findings).  
 
-42. <span style="background-color:#f59e0b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ISKE 2023</span>  **Topic Modeling of Collision Reports in Autonomous Driving Systems: Identification of Regulatory Concerns and Analysis of Spatiotemporal Evolution**,  **Han, S.R.\***; Lu, H.T.; Wu, H. *ISKE 2023* (EI-indexed; Best Paper Award), Fuzhou, China, December 2023.  
+42. <span style="background-color:#f59e0b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ISKE 2023</span>  **Topic Modeling of Collision Reports in Autonomous Driving Systems: Identification of Regulatory Concerns and Analysis of Spatiotemporal Evolution**,  **Han, S.R.\***; Lu, H.T.; Wu, H. *ISKE 2023* (EI-indexed; Best Paper Award), Fuzhou, China, December 2023. 
 
+
+# 📝 Top Computational Social Science Proceedings
+1. <span style="background-color:#0f766e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICA 2026</span>  **When AI Manipulates: Context-Dependent Effect and the Psychology of University Student Trust on Social Media**,  Siyu Peng, **Sirui Han\***, Yike Guo. In <a href="https://www.icahdq.org/mpage/ICA26">ICA 2026</a>.
+
+2. <span style="background-color:#0f766e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICA 2026</span>  **Deepfakes as Systemic Risk at the Media–Law Boundary: A Technology Neutral Assessment — A Google News Based Comparative Analysis (2017–2025)**,  Yidan Huang, **Sirui Han\***, Yike Guo. In <a href="https://www.icahdq.org/mpage/ICA26">ICA 2026</a>.
+
+3. <span style="background-color:#0f766e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICA 2026</span>  **When Data Speaks for the North: Generative AI, Corpus Inequality, and the Reinforcement of Symbolic Power**,  Guoying Lu, **Sirui Han\***, Yike Guo. In <a href="https://www.icahdq.org/mpage/ICA26">ICA 2026</a>.
 
 # 📝 Selected Publications
 
@@ -403,6 +416,7 @@ Postdoc Fellow, September 2019 – August 2021
 - *2011* National University of Singapore, Faculty of Law — Sino-Singapore Undergraduate Exchange Fellow (Mar – Apr)  
 
 # 🎖 Honors and Awards
+- *2024* 50th International Exhibition of Inventions of Geneva — Bronze Medal: LexiHK, Legal AI Assistant  
 - *2018–19* J. William Fulbright-RGC Hong Kong Research Scholar Award (Research Grants Council)  
 - *2017* HKSAR Scholarship Fund – Reaching Out Award (Hong Kong Government)  
 - *2014* King’s–China Scholarship Council PhD Scholarship (Chinese Scholarship Council)  
@@ -425,6 +439,10 @@ Postdoc Fellow, September 2019 – August 2021
 # 🌐 Visitor Map
 
 <div class="visitor-map">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=F5uNShR_HZX_fBlypcLNyLiIhN1edcVQ0Z7mS4nlB_g&cl=ffffff&w=a"></script>
-  <!-- <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=_uz9EwfoLlhIhyxEda-NjuUQtV7KAyWbHnTacemfD5A"></script> -->
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=mFgOLmUTbUCcc21odWsbAbZ7d70QgJWJL5PuDzpWurw"></script>
+<!-- <script
+  type="text/javascript"
+  id="clustrmaps"
+  src="https://cdn.clustrmaps.com/map_v2.js?d=BGALpSWwWqDuRUSLYeHRQPrVIsiddImoGjdtZETdVDM&cl=ffffff&w=a"></script> -->
+  
 </div>
