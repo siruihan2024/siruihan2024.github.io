@@ -75,6 +75,12 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AAAI 2026</span>  **What, Whether and How? Unveiling Process Reward Models for Thinking with Images Reasoning**,  **Han, Sirui\***; et al. In <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
 
+23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **Motion-R1: Enhancing Motion Generation with Decomposed Chain-of-Thought and RL Binding**,  Runqi Ouyang, Haoyun Li, Zhenyuan Zhang, Xiaofeng Wang, Zeyu Zhang, Zheng Zhu\*, Guan Huang, Sirui Han, Xingang Wang\*. In <a href="https://iclr.cc/">ICLR 2026</a>.
+
+24. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **EffiVMT: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**,  Yue Ma, Yulong Liu, Qiyuan Zhu, Xiangpeng Yang, Kunyu Feng, Xinhua Zhang, Zexuan Yan, Zhifeng Li, Sirui Han\*, Chenyang Qi\*, Qifeng Chen. In <a href="https://iclr.cc/">ICLR 2026</a>.
+
+25. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **EgoTwin: Dreaming Body and View in First Person**,  Jingqiao Xiu, Fangzhou Hong, Yicong Li\*, Mengze Li, Wentao Wang, Sirui Han\*, Liang Pan\*, Ziwei Liu. In <a href="https://iclr.cc/">ICLR 2026</a>.
+
 
 19. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
 <a href="https://arxiv.org/abs/2503.17682"><b>Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback</b></a>,
@@ -111,14 +117,14 @@ In <a href="https://neurips.cc/virtual/2025/poster/121844">NeurIPS 2025</a>.
 
 28. <span style="background-color:#1e3a8a; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  <a href="https://aclanthology.org/2025.acl-long.1544/">**PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs**</a>,  Ji, Jiaming; Hong, Donghai; Zhang, Borong; Chen, Boyuan; Dai, Josef; Zheng, Boren; Qiu, Tianyi Alex; Zhou, Jiayi; Wang, Kaile; Li, Boxun; **Han, Sirui**; Guo, Yike; Yang, Yaodong. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
 
-29. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span>  <a href="https://aclanthology.org/2025.findings-acl.388/">**Boosting Policy and Process Reward Models with Monte Carlo Tree Search**</a>, Chan, Chi-Min; Xu, Chunpu; Zhu, Junqi; Ji, Jiaming; Hong, Donghai; Wen, Pengcheng; Jiang, Chunyang; Ye, Zhen; Yang, Yaodong; Xue, Wei; **Han, Sirui\***; Guo, Yike*. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+29. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  <a href="https://aclanthology.org/2025.findings-acl.388/">**Boosting Policy and Process Reward Models with Monte Carlo Tree Search**</a>, Chan, Chi-Min; Xu, Chunpu; Zhu, Junqi; Ji, Jiaming; Hong, Donghai; Wen, Pengcheng; Jiang, Chunyang; Ye, Zhen; Yang, Yaodong; Xue, Wei; **Han, Sirui\***; Guo, Yike*. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
 
-30. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span>  <a href="https://aclanthology.org/2025.findings-acl.721/">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a>,  
-Cao, Chuxue; Zhu, Han; Ji, Jiaming; Sun, Qichao; Zhu, Zhenghao; Wu, Yinyu; Dai, Josef; Yang, Yaodong; **Han, Sirui\***; Guo, Yike*. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+30. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  <a href="https://aclanthology.org/2025.findings-acl.721/">**SafeLawBench: Towards Safe Alignment of Large Language Models**</a>,  
+Cao, Chuxue; Zhu, Han; Ji, Jiaming; Sun, Qichao; Zhu, Zhenghao; Wu, Yinyu; Dai, Josef; Yang, Yaodong; **Han, Sirui\***; Guo, Yike*. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
 
-31. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span>  <a href="https://aclanthology.org/2025.findings-acl.1001/">**Out-of-Distribution Detection via LLM-Guided Outlier Generation**</a>,  Lv, Xiangwei; Li, Mengze; Chen, Jingyuan; Dong, Zhiang; **Han, Sirui**; Liao, Beishui. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+31. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span>  <a href="https://aclanthology.org/2025.findings-acl.1001/">**Out-of-Distribution Detection via LLM-Guided Outlier Generation**</a>,  Lv, Xiangwei; Li, Mengze; Chen, Jingyuan; Dong, Zhiang; **Han, Sirui**; Liao, Beishui. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
 
-32. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Findings of ACL 2025</span> <a href="https://aclanthology.org/2025.findings-acl.1028/">**Benchmarking Multi-National Value Alignment for LLMs**</a>,  Ju, Chengyi; Shi, Weijie; Liu, Chengzhong; Ji, Jiaming; Zhang, Ruiyuan; Zhu, Jia; Xu, Jiajie; Yang, Yaodong; **Han, Sirui\***; Guo, Yike*. In <a href="https://2025.aclweb.org/">Findings of ACL 2025</a>.  
+32. <span style="background-color:#2563eb; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ACL 2025</span> <a href="https://aclanthology.org/2025.findings-acl.1028/">**Benchmarking Multi-National Value Alignment for LLMs**</a>,  Ju, Chengyi; Shi, Weijie; Liu, Chengzhong; Ji, Jiaming; Zhang, Ruiyuan; Zhu, Jia; Xu, Jiajie; Yang, Yaodong; **Han, Sirui\***; Guo, Yike*. In <a href="https://2025.aclweb.org/">ACL 2025</a>.  
 
 33. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICCV 2025</span>  **Efficient Fine-Tuning of Large Models via Nested Low-Rank Adaptation**,  Li, Lujun; Lin, Cheng; Li, Dezhi; Huang, You-Liang; Li, Wei; Wu, Tianyu; Zou, Jie; Xue, Wei; **Han, Sirui\***; Guo, Yike*. In <a href="https://iccv2025.thecvf.com/">ICCV 2025</a> (accepted).  
 
