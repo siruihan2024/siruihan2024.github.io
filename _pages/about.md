@@ -75,11 +75,11 @@ My research spans across AI Governance, Legal Tech, and the intersection of Law 
 
 22. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">AAAI 2026</span>  **What, Whether and How? Unveiling Process Reward Models for Thinking with Images Reasoning**,  **Han, Sirui\***; et al. In <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.
 
-23. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **Motion-R1: Enhancing Motion Generation with Decomposed Chain-of-Thought and RL Binding**,  Runqi Ouyang, Haoyun Li, Zhenyuan Zhang, Xiaofeng Wang, Zeyu Zhang, Zheng Zhu\*, Guan Huang, **Sirui Han**, Xingang Wang\*. In <a href="https://iclr.cc/">ICLR 2026</a>.
+23. <span style="background-color:#0ea5a4; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **Motion-R1: Enhancing Motion Generation with Decomposed Chain-of-Thought and RL Binding**,  Runqi Ouyang, Haoyun Li, Zhenyuan Zhang, Xiaofeng Wang, Zeyu Zhang, Zheng Zhu\*, Guan Huang, **Sirui Han**, Xingang Wang\*. In <a href="https://iclr.cc/">ICLR 2026</a>.
 
-24. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **EffiVMT: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**,  Yue Ma, Yulong Liu, Qiyuan Zhu, Xiangpeng Yang, Kunyu Feng, Xinhua Zhang, Zexuan Yan, Zhifeng Li, **Sirui Han\***, Chenyang Qi\*, Qifeng Chen. In <a href="https://iclr.cc/">ICLR 2026</a>.
+24. <span style="background-color:#0ea5a4; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **EffiVMT: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**,  Yue Ma, Yulong Liu, Qiyuan Zhu, Xiangpeng Yang, Kunyu Feng, Xinhua Zhang, Zexuan Yan, Zhifeng Li, **Sirui Han\***, Chenyang Qi\*, Qifeng Chen. In <a href="https://iclr.cc/">ICLR 2026</a>.
 
-25. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **EgoTwin: Dreaming Body and View in First Person**,  Jingqiao Xiu, Fangzhou Hong, Yicong Li\*, Mengze Li, Wentao Wang, **Sirui Han\***, Liang Pan\*, Ziwei Liu. In <a href="https://iclr.cc/">ICLR 2026</a>.
+25. <span style="background-color:#0ea5a4; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICLR 2026</span>  **EgoTwin: Dreaming Body and View in First Person**,  Jingqiao Xiu, Fangzhou Hong, Yicong Li\*, Mengze Li, Wentao Wang, **Sirui Han\***, Liang Pan\*, Ziwei Liu. In <a href="https://iclr.cc/">ICLR 2026</a>.
 
 
 19. <span style="background-color:#dc2626; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">NeurIPS 2025</span>
