@@ -209,35 +209,6 @@ Capability for Contextualized Privacy and Safety Compliance via Reinforcement Le
 
 Xueyan LI
 
-# 🏢 Industry Collaborators
-
-<div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:30px; margin:20px 0;">
-  <div style="text-align:center;">
-    <img src="{{ 'images/collaborators/phoenix-tv.png' | relative_url }}" alt="Phoenix TV" style="height:80px; object-fit:contain;">
-    <p style="margin-top:5px; font-size:85%;">Phoenix TV<br>凤凰卫视</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="{{ 'images/collaborators/metax.png' | relative_url }}" alt="MetaX" style="height:80px; object-fit:contain;">
-    <p style="margin-top:5px; font-size:85%;">MetaX<br>沐曦</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="{{ 'images/collaborators/china-telecom.png' | relative_url }}" alt="China Telecom International" style="height:80px; object-fit:contain;">
-    <p style="margin-top:5px; font-size:85%;">China Telecom International<br>中国电信国际</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="{{ 'images/collaborators/shanghai-ai-lab.png' | relative_url }}" alt="Shanghai AI Laboratory" style="height:80px; object-fit:contain;">
-    <p style="margin-top:5px; font-size:85%;">Shanghai AI Laboratory<br>上海人工智能实验室</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="{{ 'images/collaborators/du-xiaoman.jpg' | relative_url }}" alt="Du Xiaoman Financial" style="height:80px; object-fit:contain;">
-    <p style="margin-top:5px; font-size:85%;">Du Xiaoman Financial<br>度小满</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="{{ 'images/collaborators/webank.png' | relative_url }}" alt="WeBank" style="height:80px; object-fit:contain;">
-    <p style="margin-top:5px; font-size:85%;">WeBank<br>微众银行</p>
-  </div>
-</div>
-
 # 📝 Experience 
 <div class='paper-box'>
   <div class='paper-box-image size-350x100'>
@@ -347,9 +318,43 @@ Postdoc Fellow, September 2019 – August 2021
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 🌐 Visitor Map
+# 🏢 Institutional Collaborators
 
-<div class="visitor-map">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=F5uNShR_HZX_fBlypcLNyLiIhN1edcVQ0Z7mS4nlB_g&cl=ffffff&w=a"></script>
-  <!-- <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=_uz9EwfoLlhIhyxEda-NjuUQtV7KAyWbHnTacemfD5A"></script> -->
+<div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:30px; margin:20px 0;">
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/bytedance.jpg' | relative_url }}" alt="ByteDance" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">ByteDance<br>字节跳动</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/china-telecom.png' | relative_url }}" alt="China Telecom International" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">China Telecom International<br>中国电信国际</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/du-xiaoman.jpg' | relative_url }}" alt="Du Xiaoman Financial" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Du Xiaoman Financial<br>度小满</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/metax.png' | relative_url }}" alt="MetaX" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">MetaX<br>沐曦</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/pengcheng-lab.png' | relative_url }}" alt="Peng Cheng Laboratory" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Peng Cheng Laboratory<br>鹏城实验室</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/phoenix-tv.png' | relative_url }}" alt="Phoenix TV" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Phoenix TV<br>凤凰卫视</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/shanghai-ai-lab.png' | relative_url }}" alt="Shanghai AI Laboratory" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Shanghai AI Laboratory<br>上海人工智能实验室</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/webank.png' | relative_url }}" alt="WeBank" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">WeBank<br>微众银行</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/wiselaw.png' | relative_url }}" alt="WiseLaw" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">WiseLaw</p>
+  </div>
 </div>

@@ -12,9 +12,6 @@ main:
   - title: "Top CSS Proceedings"
     url: "/#-top-computational-social-science-proceedings"
 
-  - title: "Industry Collaborators"
-    url: "/#-industry-collaborators"
-
   - title: "Team"
     url: "/#team"
 
@@ -32,3 +29,6 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Institutional Collaborators"
+    url: "/#-institutional-collaborators"
