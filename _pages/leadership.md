@@ -37,6 +37,28 @@ Joint appointment across the Division of Emerging Interdisciplinary Areas, Depar
 
 ---
 
+## Policy Impact
+
+My research directly informs government policy. As Head of the LLM Division at HKGAI, I served as the **lead author** of the *Hong Kong Generative Artificial Intelligence Technical and Application Guideline* — the first official AI governance guideline issued by the HKSAR Government.
+
+<div class='paper-box'>
+  <div class='paper-box-text' markdown="1">
+
+**Hong Kong Generative AI Technical and Application Guideline**  
+*Lead Author* | Commissioned by the Digital Policy Office (DPO), HKSAR Government  
+*Officially released: April 15, 2025 | Version 1.1: December 2025*
+
+This 49-page guideline establishes Hong Kong's governance framework for generative AI, covering technical risks, five dimensions of governance (personal data privacy, intellectual property, crime prevention, reliability & trustworthiness, system security), and key principles for compliance, transparency, accuracy, fairness, and accountability. It provides practical operational guidance for technology developers, service providers, and users across all sectors.
+
+The Commissioner for Digital Policy, Mr Tony Wong, publicly acknowledged HKGAI's "professional research and contributions to the formulation of the Guideline" at the Forum on Large AI Models of the World Internet Conference Asia-Pacific Summit.
+
+[Guideline (Full Text)](https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf) | [HKSAR Government Official Press Release](https://www.info.gov.hk/gia/general/202504/15/P2025041500227.htm)
+
+  </div>
+</div>
+
+---
+
 ## Research Funding
 
 I have secured over **HK$33 million** in competitive research funding as Principal Investigator or Co-PI, supporting research across AI safety, legal reasoning, efficient LLMs, and multimodal intelligence.
