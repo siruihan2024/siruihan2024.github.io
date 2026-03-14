@@ -7,13 +7,13 @@ author_profile: true
 
 # Biography
 
-Dr. Sirui Han is an **Assistant Professor** at the Hong Kong University of Science and Technology (HKUST), with joint appointments across the Division of Emerging Interdisciplinary Areas, the Department of Economics, and the Division of Arts and Machine Creativity. He also serves as **Head of the Large Language Model Division** at the Hong Kong Generative AI Research and Development Centre (HKGAI), where he is a founding member and lead author of the HKGAI-V1 technical report.
+Dr. Sirui Han is an **Assistant Professor** at the Hong Kong University of Science and Technology (HKUST), with joint appointments across the Division of Emerging Interdisciplinary Areas, the Department of Economics, and the Division of Arts and Machine Creativity. She also serves as **Head of the Large Language Model Division** at the Hong Kong Generative AI Research and Development Centre (HKGAI), where she is a founding member and lead author of the HKGAI-V1 technical report.
 
-His academic training uniquely spans **law and computer science**. He holds a **Ph.D. in Law** and an M.Sc. in Finance from the Chinese University of Hong Kong, an LL.M. in International Commercial Law from University College London, and is currently completing a **Ph.D. in Computer Science** at HKUST. He was a **J. William Fulbright Visiting Scholar** at Cornell Law School (2018–19) and has held visiting appointments at the Harvard Institute for Global Law & Policy and Oxford Law School.
+Her academic training uniquely spans **law and computer science**. She holds a **Ph.D. in Law** and an M.Sc. in Finance from the Chinese University of Hong Kong, an LL.M. in International Commercial Law from University College London, and is currently completing a **Ph.D. in Computer Science** at HKUST. She was a **J. William Fulbright Visiting Scholar** at Cornell Law School (2018–19) and has held visiting appointments at the Harvard Institute for Global Law & Policy and Oxford Law School.
 
-His research sits at the intersection of **artificial intelligence and law**, with a focus on sovereign AI governance, legal alignment of large language models, and AI accountability frameworks for jurisdictions operating under plural legal systems. He has secured over **HK$33 million** in competitive research funding and leads an active research group spanning AI safety, legal reasoning, and multimodal systems. His work has been covered by the *South China Morning Post* and *China Daily*, and he serves as a regular commentator on AI policy and technology governance in the Greater Bay Area.
+Her research sits at the intersection of **artificial intelligence and law**, with a focus on sovereign AI governance, legal alignment of large language models, and AI accountability frameworks for jurisdictions operating under plural legal systems. She has secured over **HK$33 million** in competitive research funding and leads an active research group spanning AI safety, legal reasoning, and multimodal systems. Her work has been covered by the *South China Morning Post* and *China Daily*, and she serves as a regular commentator on AI policy and technology governance in the Greater Bay Area.
 
-Prior to academia, he worked as an equity research analyst at **Citibank Hong Kong**, covering China's automotive sector for global institutional clients.
+Prior to academia, she worked as an equity research analyst at **Citibank Hong Kong**, covering China's automotive sector for global institutional clients.
 
 ---
 
