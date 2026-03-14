@@ -61,6 +61,8 @@ Hong Kong's unique position as a jurisdiction operating under two parallel legal
 - **Trustworthy Legal Reasoning: A Comprehensive Survey** — *Preprints 2026* — [Paper](https://www.preprints.org/manuscript/202602.0870)
 - **Benchmarking Multi-National Value Alignment for LLMs** — *ACL 2025 Findings* — [arXiv](https://arxiv.org/abs/2504.12911)
 - **LRAS: Advanced Legal Reasoning with Agentic Search** — *arXiv 2026* — [arXiv](https://arxiv.org/abs/2601.07296)
+- **Awesome World Law Agent** — A comprehensive survey of the World Law Agent ecosystem (AI + Law) — [GitHub](https://github.com/siruihan2024/awesome-world-law-agent)
+- **HK-O1aw** — A legal reasoning assistant for Hong Kong's common law system, built on LLaMA-3.1-8B with O1-style reasoning — [GitHub](https://github.com/HKAIR-Lab/HK-O1aw)
 
 **Team Members:** Chuxue CAO, Han ZHU, Yujin ZHOU, Ruoxi LI, Yuyao ZHANG
 
