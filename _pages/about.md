@@ -217,7 +217,7 @@ I lead an active research group of **30+ PhD students**, **7 engineers**, and **
 
 ## Engineers
 
-[Jieyang FENG](https://scholar.google.com/citations?user=uvLx-GAAAAAJ&hl=en) · [Xiangyu LONG](https://scholar.google.co.th/citations?user=xL5TEi8AAAAJ&hl=en) · Zhiqiang QIAN · [Xinyi WANG](https://scholar.google.com/citations?user=XZrLlEgAAAAJ&hl=en) · Shuchao WU · [Boqin YIN](https://scholar.google.com/citations?user=B-yt3S0AAAAJ&hl=zh-CN) · [Zhenghao ZHU](https://scholar.google.com/citations?user=KmAEN_UAAAAJ&hl=en)
+Jieyang FENG · Xiangyu LONG · Zhiqiang QIAN · Xinyi WANG · Shuchao WU · Boqin YIN · Zhenghao ZHU
 
 ## Research Assistants
 
