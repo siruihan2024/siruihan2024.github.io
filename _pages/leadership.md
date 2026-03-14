@@ -61,7 +61,22 @@ The Commissioner for Digital Policy, Mr Tony Wong, publicly acknowledged HKGAI's
 
 ## Research Funding
 
-I have secured over **HK$33 million** in competitive research funding as Principal Investigator or Co-PI, supporting research across AI safety, legal reasoning, efficient LLMs, and multimodal intelligence.
+I have secured over **HK$33 million** in competitive research funding as PI or Co-PI. My research has attracted sustained support from both government agencies and leading technology companies, reflecting the practical relevance and industry recognition of our work in AI safety, legal reasoning, efficient LLMs, and multimodal intelligence.
+
+### Government-Funded Research
+
+| Project | Sponsor | Programme | Period | Role |
+| :--- | :--- | :--- | :---: | :---: |
+| **Hong Kong Generative AI Research and Development Center (HKGAI)** | Innovation and Technology Commission | AIR@InnoHK | 2023–2026 | Co-I |
+
+### Industry-Sponsored Research
+
+| Project | Sponsor | Amount (HKD) | Period | Role |
+| :--- | :--- | :---: | :---: | :---: |
+| **Financial Credit Slow Thinking Large Language Model** | Du Xiaoman Financial | $32.03M | 2024–2027 | Co-I |
+| **HKUST-MetaX Joint Laboratory for Advanced AI Computing** | MetaX Integrated Circuits | $28.00M | 2024–2029 | Co-I |
+| **Large-Scale Fine-Tuning and Alignment of MoE Large Models** | MetaX Integrated Circuits | $835K | 2024–2026 | Co-I |
+| **Low Bit Transferring: Native MoE FFN Transferring Algorithm** | WeBank | $350K | 2025–2027 | **PI** |
 
 ---
 
