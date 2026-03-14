@@ -350,6 +350,10 @@ Postdoc Fellow, September 2019 – August 2021
     <p style="margin-top:5px; font-size:85%;">Shanghai AI Laboratory<br>上海人工智能实验室</p>
   </div>
   <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/tsinghua-aiig.jpg' | relative_url }}" alt="Tsinghua I-AIIG" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Tsinghua I-AIIG<br>清华大学人工智能国际治理研究院</p>
+  </div>
+  <div style="text-align:center;">
     <img src="{{ 'images/collaborators/webank.png' | relative_url }}" alt="WeBank" style="height:80px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">WeBank<br>微众银行</p>
   </div>
