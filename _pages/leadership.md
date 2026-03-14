@@ -120,50 +120,79 @@ My work has been featured in major media outlets, and I serve as a regular comme
 
 ## Institutional Collaborators
 
-I maintain active research collaborations with **11 leading institutions** across academia and industry:
+I maintain active research collaborations with **13 leading institutions** across academia and industry:
+
+<style>
+.collab-item-lp {
+  text-align: center;
+  padding: 12px;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+  cursor: default;
+}
+.collab-item-lp:hover {
+  transform: translateY(-6px) scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  background: #f8f9fa;
+}
+.collab-item-lp img {
+  transition: filter 0.3s ease;
+}
+.collab-item-lp:hover img {
+  filter: brightness(1.05);
+}
+</style>
 
 <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:30px; margin:20px 0;">
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
+    <img src="{{ 'images/collaborators/baai.jpg' | relative_url }}" alt="BAAI" style="height:70px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">BAAI</p>
+  </div>
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/bytedance.jpg' | relative_url }}" alt="ByteDance" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">ByteDance</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/china-telecom.png' | relative_url }}" alt="China Telecom International" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">China Telecom Int'l</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/du-xiaoman.jpg' | relative_url }}" alt="Du Xiaoman Financial" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">Du Xiaoman</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/hkgai.png' | relative_url }}" alt="HKGAI" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">HKGAI</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/metax.png' | relative_url }}" alt="MetaX" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">MetaX</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/pengcheng-lab.png' | relative_url }}" alt="Peng Cheng Laboratory" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">Peng Cheng Lab</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/phoenix-tv.png' | relative_url }}" alt="Phoenix TV" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">Phoenix TV</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/shanghai-ai-lab.png' | relative_url }}" alt="Shanghai AI Laboratory" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">Shanghai AI Lab</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
+    <img src="{{ 'images/collaborators/tencent-hunyuan.png' | relative_url }}" alt="Tencent Hunyuan" style="height:70px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Tencent Hunyuan</p>
+  </div>
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/tsinghua-aiig.png' | relative_url }}" alt="Tsinghua I-AIIG" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">Tsinghua I-AIIG</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/webank.png' | relative_url }}" alt="WeBank" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">WeBank</p>
   </div>
-  <div style="text-align:center;">
+  <div class="collab-item-lp">
     <img src="{{ 'images/collaborators/wiselaw.png' | relative_url }}" alt="WiseLaw" style="height:70px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">WiseLaw</p>
   </div>
