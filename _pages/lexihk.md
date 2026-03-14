@@ -6,14 +6,49 @@ redirect_from:
   - /lexihk.html
 ---
 
-<div style="background: linear-gradient(135deg, #0a1628 0%, #132744 40%, #1a3a5c 100%); padding: 52px 40px; border-radius: 14px; margin-bottom: 36px; text-align: center; position: relative; overflow: hidden;">
+<style>
+.lexihk-banner {
+  background: linear-gradient(135deg, #0a1628 0%, #132744 40%, #1a3a5c 100%);
+  padding: 52px 40px;
+  border-radius: 14px;
+  margin-bottom: 36px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.lexihk-banner:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 48px rgba(10,22,40,0.45);
+}
+.lexihk-banner .lexi-btn {
+  display: inline-block;
+  background: #4BC7A8;
+  color: #0a1628;
+  padding: 12px 36px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.95em;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+}
+.lexihk-banner .lexi-btn:hover {
+  background: #ffffff;
+  color: #0a1628;
+  box-shadow: 0 4px 16px rgba(75,199,168,0.4);
+  transform: scale(1.05);
+}
+</style>
+
+<div class="lexihk-banner">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(ellipse at 30% 50%, rgba(75,199,168,0.08) 0%, transparent 60%); pointer-events: none;"></div>
   <div style="position: relative; z-index: 1;">
     <img src="/images/lexihk_logo_white.svg" alt="LexiHK" style="height: 48px; margin-bottom: 20px; filter: drop-shadow(0 2px 8px rgba(0,0,0,0.3));">
-    <h1 style="font-family: 'Playfair Display', serif; font-size: 2.4em; font-weight: 800; margin: 0 0 6px 0; color: #ffffff; letter-spacing: 3px; text-shadow: 0 2px 12px rgba(0,0,0,0.4);">LexiHK <span style="font-size: 0.45em; font-weight: 500; color: #4BC7A8; letter-spacing: 1px;">港法通</span></h1>
+    <p style="font-size: 1.3em; font-weight: 500; color: #4BC7A8; margin: 0 0 6px 0; letter-spacing: 2px;">港法通</p>
     <hr style="width: 60px; border: none; border-top: 2px solid #4BC7A8; margin: 18px auto;">
     <p style="font-size: 1.05em; color: rgba(255,255,255,0.85); margin: 0 0 28px 0; font-weight: 400; letter-spacing: 0.5px;">Hong Kong's First AI-Powered Legal Assistant — Built on HKGAI's Sovereign LLM</p>
-    <a href="https://lexi.hkgai.asia/login" target="_blank" style="display: inline-block; background: #4BC7A8; color: #0a1628; padding: 12px 36px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 0.95em; letter-spacing: 0.5px; transition: all 0.3s;">Try LexiHK Pro &rarr;</a>
+    <a href="https://lexi.hkgai.asia/login" target="_blank" class="lexi-btn">Try LexiHK &rarr;</a>
   </div>
 </div>
 
