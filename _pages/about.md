@@ -198,6 +198,60 @@ Capability for Contextualized Privacy and Safety Compliance via Reinforcement Le
 3. <span style="background-color:#0f766e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICA 2026</span>  **When Data Speaks for the North: Generative AI, Corpus Inequality, and the Reinforcement of Symbolic Power**,  Guoying Lu, **Sirui Han\***, Yike Guo. In <a href="https://www.icahdq.org/mpage/ICA26">ICA 2026</a>.
 
 
+# 📝 Working Papers
+
+1. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **AM3Safety: Towards Data Efficient Alignment of Multi-modal Multi-turn Safety for MLLMs**, Han Zhu, Jiale Chen, Chengkun Cai, Shengjie Sun, Haoran Li, Yujin Zhou, Chi-Min Chan, Pengcheng Wen, Lei Li, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2601.04736">arXiv</a>]
+
+2. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **CaveAgent: Transforming LLMs into Stateful Runtime Operators**, Maohao Ran, Zhenglin Wan, Cooper Lin, Yanting Zhang, Hongyu Xin, Hongwei Fan, Yibo Xu, Beier Luo, Yaxin Zhou, Wangbo Zhao, Lijie Yang, Lang Feng, Fuchao Yang, Jingxuan Wu, Yiqiao Huang, Chendong Ma, Dailing Jiang, Jianbo Deng, **Sirui Han**, Yang You, Bo An, Yike Guo, Jun Song.
+<br>[<a href="https://arxiv.org/abs/2601.01569">arXiv</a>]
+
+3. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning**, Hongbo Bai, Yujin Zhou, Yile Wu, Chi-Min Chan, Pengcheng Wen, Kunhao Pan, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2601.13942">arXiv</a>]
+
+4. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **LRAS: Advanced Legal Reasoning with Agentic Search**, Yujin Zhou, Chuxue Cao, Jinluan Yang, Lijun Wu, Conghui He, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2601.07296">arXiv</a>]
+
+5. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **Learning While Staying Curious: Entropy-Preserving Supervised Fine-Tuning via Adaptive Self-Distillation for Large Reasoning Models**, Hao Wang, Hao Gu, Hongming Piao, Kaixiong Gong, Yuxiao Ye, Xiangyu Yue, **Sirui Han**, Yike Guo, Dapeng Wu.
+<br>[<a href="https://arxiv.org/abs/2602.02244">arXiv</a>]
+
+6. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **MMFCTUB: Multi-Modal Financial Credit Table Understanding Benchmark**, Cui Yakun, Yanting Zhang, Zhu Lei, Jian Xie, Zhizhuo Kou, Hang Du, Zhenghao Zhu, **Sirui Han**.
+<br>[<a href="https://arxiv.org/abs/2601.04643">arXiv</a>]
+
+7. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **MemFly: On-the-Fly Memory Optimization via Information Bottleneck**, Zhenyuan Zhang, Xianzhang Jia, Zhiqin Yang, Zhenbo Song, Wei Xue, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2602.07885">arXiv</a>]
+
+8. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection**, Cui Yakun, Peng Qi, Fushuo Huo, Hang Du, Weijie Shi, Juntao Dai, Zhenghao Zhu, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2510.24816">arXiv</a>]
+
+9. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification**, Chuxue Cao, Jinluan Yang, Haoran Li, Kunhao Pan, Zijian Zhao, Zhengyu Chen, Yuchen Tian, Lijun Wu, Conghui He, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2601.22642">arXiv</a>]
+
+10. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **Reinforcement Learning of Large Language Models for Interpretable Credit Card Fraud Detection**, Cooper Lin, Yanting Zhang, Maohao Ran, Wei Xue, Hongwei Fan, Yibo Xu, Zhenglin Wan, **Sirui Han**, Yike Guo, Jun Song.
+<br>[<a href="https://arxiv.org/abs/2601.05578">arXiv</a>]
+
+11. <span style="background-color:#6b21a8; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">Preprints 2026</span>  **Trustworthy Legal Reasoning: A Comprehensive Survey**, **Sirui Han**, Zhizhuo Kou, Ruoxi Li, Yuyao Zhang, Yujin Zhou, Chuxue Cao, Han Zhu, Kunhao Pan, Haoran Li, Conghui He, Haitian Lu, Yike Guo.
+<br>[<a href="https://www.preprints.org/manuscript/202602.0870">Preprints</a>]
+
+12. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**, Qinwen Xu, Jiaming Liu, Rui Zhou, Shaojun Shi, Nuowei Han, Zhuoyang Liu, Chenyang Gu, Shuo Gu, Yang Yue, Gao Huang, Wenzhao Zheng, **Sirui Han**, Peng Jia, Shanghang Zhang.
+<br>[<a href="https://arxiv.org/abs/2602.09023">arXiv</a>]
+
+13. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **Unlocking Data Value in Finance: A Study on Distillation and Difficulty-Aware Training**, Chuxue Cao, Honglin Lin, Zhanping Zhong, Xin Gao, Mengzhang Cai, Conghui He, **Sirui Han**, Lijun Wu.
+<br>[<a href="https://arxiv.org/abs/2603.07223">arXiv</a>]
+
+14. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2026</span>  **Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**, Chun-Kai Fan, Xiaowei Chi, Xiaozhu Ju, Hao Li, Yong Bao, Yu-Kai Wang, Lizhang Chen, Zhiyuan Jiang, Kuangzhi Ge, Ying Li, Weishi Mi, Qingpo Wuwu, Peidong Jia, Yulin Luo, Kevin Zhang, Zhiyuan Qin, Yong Dai, **Sirui Han**, Yike Guo, Shanghang Zhang, Jian Tang.
+<br>[<a href="https://arxiv.org/abs/2601.04137">arXiv</a>]
+
+15. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2025</span>  **InsightEval: An Expert-Curated Benchmark for Assessing Insight Discovery in LLM-Driven Data Agents**, Zhenghao Zhu, Yuanfeng Song, Xin Chen, Chengzhong Liu, Yakun Cui, Caleb Chen Cao, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2511.22884">arXiv</a>]
+
+16. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2025</span>  **MedInsightBench: Evaluating Medical Analytics Agents Through Multi-Step Insight Discovery in Multimodal Medical Data**, Zhenghao Zhu, Chuxue Cao, **Sirui Han**, Yuanfeng Song, Xing Chen, Caleb Chen Cao, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2512.13297">arXiv</a>]
+
+17. <span style="background-color:#b31b1b; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">arXiv 2025</span>  **SafeMT: Multi-turn Safety for Multimodal Language Models**, Han Zhu, Juntao Dai, Jiaming Ji, Haoran Li, Chengkun Cai, Pengcheng Wen, Chi-Min Chan, Boyuan Chen, Yaodong Yang, **Sirui Han**, Yike Guo.
+<br>[<a href="https://arxiv.org/abs/2510.12133">arXiv</a>]
+
+
 <span class='anchor' id='team'></span>
 
 # 🤝 Team
