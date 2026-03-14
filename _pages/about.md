@@ -192,162 +192,6 @@ Capability for Contextualized Privacy and Safety Compliance via Reinforcement Le
 
 3. <span style="background-color:#0f766e; color:white; padding:2px 6px; border-radius:4px; font-size:90%;">ICA 2026</span>  **When Data Speaks for the North: Generative AI, Corpus Inequality, and the Reinforcement of Symbolic Power**,  Guoying Lu, **Sirui Han\***, Yike Guo. In <a href="https://www.icahdq.org/mpage/ICA26">ICA 2026</a>.
 
-# 📝 Selected Publications
-
-<div class="publication-list">
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/legalreasoner.png' | relative_url }}" alt="LegalReasoner cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#1e3a8a;">ACL 2025</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://arxiv.org/abs/2506.07443">LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning</a>
-      </h3>
-      <p class="publication-card__authors">
-        Shi, Weijie; Zhu, Han; Ji, Jiaming; Li, Mengze; Zhang, Jipeng; Zhang, Ruiyuan; Xu, Jia; Xu, Jiajie; <strong>Han, Sirui</strong>; Guo, Yike
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/safelawbench.png' | relative_url }}" alt="SafeLawBench cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#1e3a8a;">ACL 2025</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://arxiv.org/abs/2506.06636">SafeLawBench: Towards Safe Alignment of Large Language Models</a>
-      </h3>
-      <p class="publication-card__authors">
-        Cao, Chuxue; Zhu, Han; Ji, Jiaming; Sun, Qichao; Zhu, Zhenghao; Wu, Yinyu; Dai, Juntao; Yang, Yaodong; <strong>Han, Sirui</strong>; Guo, Yike
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/privaci-bench.png' | relative_url }}" alt="PrivaCI-Bench cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#1e3a8a;">ACL 2025</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://arxiv.org/abs/2502.17041">PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance</a>
-      </h3>
-      <p class="publication-card__authors">
-        Li, Haoran; Hu, Wenbin; Jing, Huihao; Chen, Yulin; Hu, Qi; <strong>Han, Sirui</strong>; Chu, Tianshu; Hu, Peizhao; Song, Yangqiu
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/scenario-role.png' | relative_url }}" alt="Scenario, Role, and Persona cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#22c55e;">CHI EA 2025</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://dl.acm.org/doi/10.1145/3706599.3719762">Scenario, Role, and Persona: A Scoping Review of Design Strategies for Socially Intelligent AI Agents</a>
-      </h3>
-      <p class="publication-card__authors">
-        Niu, Ruowen; Hu, Jiaxiong; Peng, Siyu; Cao, Caleb Chen; Liu, Chengzhong; <strong>Han, Sirui</strong>; Guo, Yike
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/esg-risk-pricing.png' | relative_url }}" alt="ESG disclosure cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#2563eb;">IRLE 2024</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0144818824000910">ESG disclosure, investor awareness, and carbon risk pricing: Evidence from the Chinese market</a>
-      </h3>
-      <p class="publication-card__authors">
-        <strong>Han, Sirui</strong>; Lu, Haitian; Wu, Hao
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/carbon-efficiency.png' | relative_url }}" alt="Carbon emissions management cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#059669;">Frontiers 2023</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1301091/full">Carbon emissions management efficiency evaluation based on indicator information integration and DEA-Malmquist index</a>
-      </h3>
-      <p class="publication-card__authors">
-        Ye, Fei Fei; <strong>Han, Sirui</strong>; Lu, Haitian
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/environmental-regulation.png' | relative_url }}" alt="Environmental regulation cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#16a34a;">Sustainability 2023</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://www.emerald.com/cafr/article/26/4/413/1236216/Revolutionizing-finance-with-bitcoin-and">The Classification Impact of Different Types of Environmental Regulation on Chinese Provincial Carbon Emission Efficiency</a>
-      </h3>
-      <p class="publication-card__authors">
-        Ye, Fei Fei; You, Rongyan; Lu, Haitian; <strong>Han, Sirui</strong>; Yang, Longhao
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/bitcoin-blockchain.png' | relative_url }}" alt="Bitcoin and Blockchain review cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#d97706;">ICCLR 2023</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://www.emerald.com/cafr/article/26/4/413/1236216/Revolutionizing-finance-with-bitcoin-and">Bitcoin and Blockchain: A Literature Review of Financial Economics Studies</a>
-      </h3>
-      <p class="publication-card__authors">
-        <strong>Han, Sirui</strong>; Lu, Haitian; Wu, Hao
-      </p>
-    </div>
-  </article>
-
-  <article class="publication-card">
-    <div class="publication-card__image">
-      <img src="{{ 'images/publications/securities-regulation.png' | relative_url }}" alt="Self-regulatory Measures cover">
-    </div>
-    <div class="publication-card__body">
-      <div class="publication-card__meta">
-        <span class="publication-card__badge" style="background-color:#dc2626;">ICCLR 2022</span>
-      </div>
-      <h3 class="publication-card__title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/09546550.2022.2048274">Self-regulatory Measures as Securities Regulation: The Saga of Antitakeover Regulation in China</a>
-      </h3>
-      <p class="publication-card__authors">
-        <strong>Han, Sirui</strong>
-      </p>
-    </div>
-  </article>
-</div>
 
 <span class='anchor' id='team'></span>
 
@@ -369,6 +213,35 @@ Capability for Contextualized Privacy and Safety Compliance via Reinforcement Le
     </ul>
   </div>
 {% endfor %}
+</div>
+
+# 🏢 Industry Collaborators
+
+<div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:30px; margin:20px 0;">
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/phoenix-tv.png' | relative_url }}" alt="Phoenix TV" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Phoenix TV<br>凤凰卫视</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/metax.png' | relative_url }}" alt="MetaX" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">MetaX<br>沐曦</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/china-telecom.png' | relative_url }}" alt="China Telecom International" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">China Telecom International<br>中国电信国际</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/shanghai-ai-lab.png' | relative_url }}" alt="Shanghai AI Laboratory" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Shanghai AI Laboratory<br>上海人工智能实验室</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/du-xiaoman.jpg' | relative_url }}" alt="Du Xiaoman Financial" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Du Xiaoman Financial<br>度小满</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/webank.png' | relative_url }}" alt="WeBank" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">WeBank<br>微众银行</p>
+  </div>
 </div>
 
 # 📝 Experience 
