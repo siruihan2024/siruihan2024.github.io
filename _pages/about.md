@@ -197,23 +197,17 @@ Capability for Contextualized Privacy and Safety Compliance via Reinforcement Le
 
 # 🤝 Team
 
-<div class="team-section">
-{% for group in site.data.team.groups %}
-  <div class="team-group">
-    <h2 class="team-group__title">{{ group.title }}</h2>
-    <ul class="team-list">
-    {% for member in group.members %}
-      <li class="team-list__item">
-        <span class="team-list__name">{{ member.name }}</span>
-        {% if member.note %}
-        <span class="team-list__note">{{ member.note }}</span>
-        {% endif %}
-      </li>
-    {% endfor %}
-    </ul>
-  </div>
-{% endfor %}
-</div>
+## PhD Students
+
+[Chuxue CAO](https://scholar.google.com/citations?user=4klHp4oAAAAJ) · [Xiaowei CHI](https://scholar.google.com/citations?user=Vl1X_-sAAAAJ) · Yakun CUI · [Hao GU](https://scholar.google.com/citations?user=ozg7axcAAAAJ) · Chengyi JU · [Zhizhuo KOU](https://scholar.google.com/citations?user=jzJL2csAAAAJ&hl=zh-CN) · [Lujun LI](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN) · Ruoxi LI · [Guoying LU](https://scholar.google.com/citations?user=kdFMa2gAAAAJ&hl=zh-CN) · [Siyu PENG](https://scholar.google.com/citations?user=La4hHlUAAAAJ&hl=zh-CN) · [Xingqun QI](https://scholar.google.com/citations?user=3tO41a8AAAAJ&hl=zh-CN) · [Pengcheng WEN](https://scholar.google.com/citations?user=4iKUa4MAAAAJ&hl=zh-CN) · [Qimin ZHAN](https://scholar.google.com/citations?user=B9Icp7kAAAAJ&hl=en) · Yanting ZHANG · Zhenyuan ZHANG · [Yujin ZHOU](https://scholar.google.com/citations?user=FGtltRMAAAAJ&hl=zh-CN) · Han ZHU · [Qiyuan ZHU](https://scholar.google.com/citations?user=lX0yl-MAAAAJ&hl=en) · [Jiapeng SUN](https://scholar.google.com/citations?user=vlS5bhkAAAAJ&hl=en)
+
+## Engineers
+
+[Hongbo BAI](https://scholar.google.com/citations?user=S7D5ygcAAAAJ&hl=en) · [Shengyao GUO](https://scholar.google.com/citations?user=bEtLSugAAAAJ) · Lei WANG · Shuchao WU · Jiyuan XIN · Junqi ZHU · [Jieyang FENG](https://scholar.google.com/citations?user=uvLx-GAAAAAJ&hl=en) · [Boqin YIN](https://scholar.google.com/citations?user=B-yt3S0AAAAJ&hl=zh-CN) · [Xiangyu LONG](https://scholar.google.co.th/citations?user=xL5TEi8AAAAJ&hl=en) · [Yidan HUANG](https://scholar.google.com/citations?user=KaeEsKMAAAAJ) · [Xinyi WANG](https://scholar.google.com/citations?user=XZrLlEgAAAAJ&hl=en) · [Yile WU](https://scholar.google.com/citations?user=M2HvXXgAAAAJ&hl=zh-CN)
+
+## Research Assistants
+
+Xueyan LI · [Yuyao ZHANG](https://scholar.google.com/citations?user=hoK4mPYAAAAJ&hl=en) · [Zhenghao ZHU](https://scholar.google.com/citations?user=KmAEN_UAAAAJ&hl=en)
 
 # 🏢 Industry Collaborators
 
