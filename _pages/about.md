@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am an **Assistant Professor** at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), where I serve as **Head of the Large Language Model Division** at the [Hong Kong Generative AI Research and Development Centre (HKGAI)](https://hkgai.hk/). My research sits at the intersection of **artificial intelligence and law**, with a focus on **sovereign AI governance**, **legal alignment of large language models**, and **AI accountability frameworks** for jurisdictions operating under plural legal systems.
+I am an **Assistant Professor** at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), where I serve as **Head of the Large Language Model Division** at the [Hong Kong Generative AI Research and Development Centre (HKGAI)](https://www.hkgai.info/). My research sits at the intersection of **artificial intelligence and law**, with a focus on **sovereign AI governance**, **legal alignment of large language models**, and **AI accountability frameworks** for jurisdictions operating under plural legal systems.
 
 
 Hong Kong's unique position as a jurisdiction operating under **two parallel legal systems**—common law and mainland Chinese law—makes it the world's only natural laboratory for studying how AI systems can be aligned to plural legal norms simultaneously. As a **founding member of HKGAI** and **lead author of the HKGAI-V1 technical report**, I combine direct engineering access to a sovereign LLM with formal doctoral training in both law and computer science—a combination that is rare globally.
@@ -337,6 +337,10 @@ Postdoc Fellow, September 2019 – August 2021
   <div style="text-align:center;">
     <img src="{{ 'images/collaborators/du-xiaoman.jpg' | relative_url }}" alt="Du Xiaoman Financial" style="height:80px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">Du Xiaoman Financial<br>度小满</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/hkgai.png' | relative_url }}" alt="HKGAI" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">HKGAI<br>香港生成式AI研发中心</p>
   </div>
   <div style="text-align:center;">
     <img src="{{ 'images/collaborators/metax.png' | relative_url }}" alt="MetaX" style="height:80px; object-fit:contain;">
