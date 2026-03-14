@@ -17,26 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# About Me / 关于我
 
 I am an **Assistant Professor** at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and **Head of the Large Language Model Division** at the [Hong Kong Generative AI Research and Development Centre (HKGAI)](https://www.hkgai.info/). Trained as both a **legal scholar** (Ph.D. in Law, CUHK) and a **computer scientist** (Ph.D. candidate in CS, HKUST), I am one of the few researchers globally who combines direct engineering access to a sovereign LLM with formal doctoral training in both disciplines. My research focuses on building AI systems that are **legally aligned, ethically accountable, and technically robust** — with a particular emphasis on Hong Kong's unique dual legal system as a natural laboratory for plural-norm AI governance.
+
+<p style="color:#555; font-size:0.92em; margin-top:10px;">我是<a href="https://hkust.edu.hk/">香港科技大学</a><strong>助理教授</strong>，同时担任<a href="https://www.hkgai.info/">香港生成式人工智能研发中心（HKGAI）</a><strong>大语言模型部门主管</strong>。我同时接受过<strong>法学</strong>（香港中文大学法学博士）和<strong>计算机科学</strong>（香港科技大学计算机博士候选人）的正式博士训练，是全球少数兼具主权大语言模型直接工程经验与跨学科博士背景的研究者。我的研究聚焦于构建<strong>合法合规、伦理可问责、技术稳健</strong>的AI系统——尤其以香港独特的双轨法律体系作为多元规范AI治理的天然实验室。</p>
 
 <div class="key-metrics">
   <div class="metric-item">
     <span class="metric-number">HK$33M+</span>
-    <span class="metric-label">Research Funding</span>
+    <span class="metric-label">Research Funding<br>科研经费</span>
   </div>
   <div class="metric-item">
     <span class="metric-number">50+</span>
-    <span class="metric-label">Top-Venue Papers</span>
+    <span class="metric-label">Top-Venue Papers<br>顶会论文</span>
   </div>
   <div class="metric-item">
     <span class="metric-number">30+</span>
-    <span class="metric-label">PhD Students</span>
+    <span class="metric-label">PhD Students<br>博士生</span>
   </div>
   <div class="metric-item">
     <span class="metric-number">11</span>
-    <span class="metric-label">Industry Partners</span>
+    <span class="metric-label">Industry Partners<br>产业合作伙伴</span>
   </div>
 </div>
 
@@ -44,9 +46,11 @@ I am an **Assistant Professor** at the [Hong Kong University of Science and Tech
 
 <span class='anchor' id='research-vision'></span>
 
-# Research Vision
+# Research Vision / 研究愿景
 
 As AI systems increasingly operate within and across legal jurisdictions, the question of how to align these systems with diverse — sometimes conflicting — legal norms becomes urgent. My research program addresses this challenge at the **intersection of AI and law**, developing the theoretical foundations, technical methods, and governance frameworks needed to ensure that large language models can be trusted to operate within the rule of law. From **AI safety and RLHF** to **legal reasoning** and **multimodal intelligence**, my group pursues a unified vision: **trustworthy AI that respects human values and legal boundaries**.
+
+<p style="color:#555; font-size:0.92em; margin-top:10px;">随着AI系统日益在不同法律管辖区内及跨区运行，如何使其与多元甚至相互冲突的法律规范保持一致已成为紧迫课题。我的研究聚焦于<strong>人工智能与法律的交叉领域</strong>，致力于发展理论基础、技术方法和治理框架，以确保大语言模型能够在法治框架内可信运行。从<strong>AI安全与RLHF</strong>到<strong>法律推理</strong>和<strong>多模态智能</strong>，我的团队追求统一愿景：<strong>构建尊重人类价值与法律边界的可信赖AI</strong>。</p>
 
 ---
 
