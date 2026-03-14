@@ -762,9 +762,119 @@
   font-weight: 600;
   text-decoration: none !important;
   transition: background 0.2s ease;
+  font-family: "Inter", -apple-system, "Segoe UI", sans-serif;
+  letter-spacing: 0.01em;
 
   &:hover {
     background: #1d4ed8;
     text-decoration: none !important;
   }
+}
+
+
+/*
+   Typography Enhancement — Confident Academic Style
+   ========================================================================== */
+
+/* Body text: Inter — clean, modern, highly legible */
+body {
+  font-family: "Inter", -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+/* Section headings: Playfair Display — authoritative serif */
+.page__content h1 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: #111827;
+}
+
+.page__content h2 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  color: #1a202c;
+}
+
+.page__content h3 {
+  font-family: "Inter", -apple-system, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  color: #1a365d;
+}
+
+.page__content h4 {
+  font-family: "Inter", -apple-system, sans-serif;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+/* Paragraph text enhancement */
+.page__content p {
+  line-height: 1.75;
+  letter-spacing: 0.005em;
+  color: #374151;
+}
+
+/* Sidebar name: strong and confident */
+.author__name {
+  font-family: "Playfair Display", Georgia, serif !important;
+  font-weight: 800 !important;
+  font-size: 1.25em !important;
+  letter-spacing: -0.01em;
+  color: #111827 !important;
+}
+
+/* Sidebar bio text */
+.author__bio {
+  font-family: "Inter", -apple-system, sans-serif !important;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4b5563;
+}
+
+/* Navigation links: confident uppercase Inter */
+.greedy-nav a {
+  font-family: "Inter", -apple-system, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-size: 0.82rem;
+}
+
+/* Key metrics numbers: bold display style */
+.metric-number {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* Pillar card titles */
+.pillar-card h3 {
+  font-family: "Inter", -apple-system, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+}
+
+/* Publication venue badges */
+.pub-filter-btn {
+  font-family: "Inter", -apple-system, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* News date badges */
+.news-date {
+  font-family: "Inter", -apple-system, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* Links: slightly bolder for confidence */
+.page__content a {
+  font-weight: 500;
 }
