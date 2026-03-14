@@ -112,8 +112,8 @@ LexiHK is one of five vertical applications built on the HKGAI V1 foundation mod
 | Application | Chinese Name | Function |
 |:---|:---|:---|
 | **HKChat** | 港话通 | AI chatbot for government and public services |
-| **HKCopilot** | 港文通 | Document drafting and writing assistant for civil servants |
-| **HKConference** | 港会通 | Multilingual meeting transcription and summarization |
+| **HKPilot** | 港文通 | Document drafting and writing assistant for civil servants |
+| **HKMeeting** | 港会通 | Multilingual meeting transcription and summarization |
 | **LexiHK** | 港法通 | AI legal assistant for ordinance Q&A and legal opinions |
 | **HKEcoLink** | 港环通 | Environmental data analysis and sustainability support |
 
