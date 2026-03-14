@@ -194,11 +194,11 @@ As AI systems increasingly operate within and across legal jurisdictions, the qu
     <span class="news-text">8 papers accepted at <strong>ACL 2025</strong>, including SafeLawBench, LegalReasoner, and PKU-SafeRLHF.</span>
   </div>
   <div class="news-item">
-    <span class="news-date">2025</span>
+    <span class="news-date">2025.10</span>
     <span class="news-text">3 papers accepted at <strong>ICCV 2025</strong>, including Nested LoRA and AIRA.</span>
   </div>
   <div class="news-item">
-    <span class="news-date">2024</span>
+    <span class="news-date">2025.04</span>
     <span class="news-text">Awarded <strong>Bronze Medal</strong> at the 50th International Exhibition of Inventions of Geneva for LexiHK.</span>
   </div>
 </div>
