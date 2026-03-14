@@ -6,11 +6,12 @@ redirect_from:
   - /lexihk.html
 ---
 
-<div class="lexihk-hero" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); color: #fff; padding: 48px 36px; border-radius: 12px; margin-bottom: 36px; text-align: center;">
-  <img src="https://lexi.hkgai.asia/assets/logo.svg" alt="LexiHK Logo" style="height: 60px; margin-bottom: 16px;" onerror="this.style.display='none'">
-  <h1 style="font-family: 'Playfair Display', serif; font-size: 2.2em; font-weight: 800; margin: 0 0 8px 0; color: #fff;">LexiHK <span style="font-size: 0.5em; font-weight: 400; opacity: 0.8;">港法通</span></h1>
-  <p style="font-size: 1.15em; opacity: 0.9; margin: 0 0 20px 0;">Hong Kong's First AI-Powered Legal Assistant — Built on HKGAI's Sovereign LLM</p>
-  <a href="https://lexi.hkgai.asia/login" target="_blank" style="display: inline-block; background: #e94560; color: #fff; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 1em; transition: background 0.3s;">Try LexiHK Pro &rarr;</a>
+<div class="lexihk-hero" style="background: #ffffff; border: 2px solid #0f3460; padding: 48px 36px; border-radius: 12px; margin-bottom: 36px; text-align: center;">
+  <h1 style="font-family: 'Playfair Display', serif; font-size: 2.6em; font-weight: 800; margin: 0 0 4px 0; color: #0f3460; letter-spacing: 2px;">LexiHK</h1>
+  <p style="font-size: 1.2em; color: #555; margin: 0 0 6px 0; font-weight: 500;">港法通</p>
+  <hr style="width: 60px; border: none; border-top: 3px solid #e94560; margin: 16px auto;">
+  <p style="font-size: 1.05em; color: #333; margin: 0 0 24px 0;">Hong Kong's First AI-Powered Legal Assistant — Built on HKGAI's Sovereign LLM</p>
+  <a href="https://lexi.hkgai.asia/login" target="_blank" style="display: inline-block; background: #0f3460; color: #fff; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 1em;">Try LexiHK Pro &rarr;</a>
 </div>
 
 # Overview
