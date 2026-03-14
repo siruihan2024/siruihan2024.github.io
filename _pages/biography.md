@@ -22,7 +22,7 @@ Prior to academia, he worked as an equity research analyst at **Citibank Hong Ko
 <div class='paper-box'>
   <div class='paper-box-image size-350x100'>
     <div>
-      <img src='images/hkust.png' alt="HKUST Logo" width="100%">
+      <img src='/images/hkust.png' alt="HKUST Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -38,7 +38,7 @@ Assistant Professor & Associate Director of HKUST-DXM AI for Finance Joint Labor
 <div class='paper-box'>
   <div class='paper-box-image size-400x120 shift-left-30'>
     <div>
-      <img src='images/polyu.png' alt="PolyU Logo" width="100%">
+      <img src='/images/polyu.png' alt="PolyU Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -54,7 +54,7 @@ Postdoc Fellow, September 2021 – November 2022
 <div class='paper-box'>
   <div class='paper-box-image size-350x90 shift-right-5'>
     <div>
-      <img src='images/citibank.png' alt="Citibank Logo" width="100%">
+      <img src='/images/citibank.png' alt="Citibank Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -68,7 +68,7 @@ Equity Research Associate, September 2021 – July 2022
 <div class='paper-box'>
   <div class='paper-box-image size-400x100 shift-left-20'>
     <div>
-      <img src='images/cuhk.png' alt="CUHK Logo" width="100%">
+      <img src='/images/cuhk.png' alt="CUHK Logo" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
