@@ -231,6 +231,10 @@ Xueyan LI
 
 <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:30px; margin:20px 0;">
   <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/baai.jpg' | relative_url }}" alt="BAAI" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">BAAI</p>
+  </div>
+  <div style="text-align:center;">
     <img src="{{ 'images/collaborators/bytedance.jpg' | relative_url }}" alt="ByteDance" style="height:80px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">ByteDance</p>
   </div>
@@ -261,6 +265,10 @@ Xueyan LI
   <div style="text-align:center;">
     <img src="{{ 'images/collaborators/shanghai-ai-lab.png' | relative_url }}" alt="Shanghai AI Laboratory" style="height:80px; object-fit:contain;">
     <p style="margin-top:5px; font-size:85%;">Shanghai AI Laboratory</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ 'images/collaborators/tencent-hunyuan.png' | relative_url }}" alt="Tencent Hunyuan" style="height:80px; object-fit:contain;">
+    <p style="margin-top:5px; font-size:85%;">Tencent Hunyuan</p>
   </div>
   <div style="text-align:center;">
     <img src="{{ 'images/collaborators/tsinghua-aiig.png' | relative_url }}" alt="Tsinghua I-AIIG" style="height:80px; object-fit:contain;">
