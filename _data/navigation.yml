@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: "/research/"
 
+  - title: "LexiHK"
+    url: "/lexihk/"
+
   - title: "Publications"
     url: "/publications/"
 
