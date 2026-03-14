@@ -29,20 +29,39 @@ LexiHK（港法通）是由香港生成式人工智能研发中心（HKGAI）开
 
 # Key Capabilities
 
+<style>
+.lexi-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: default;
+}
+.lexi-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+.lexi-impact-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: default;
+}
+.lexi-impact-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+</style>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; margin: 24px 0;">
-  <div style="background: #f8f9fa; border-left: 4px solid #0f3460; padding: 20px; border-radius: 8px;">
+  <div class="lexi-card" style="background: #f8f9fa; border-left: 4px solid #0f3460; padding: 20px; border-radius: 8px;">
     <h3 style="margin-top: 0; color: #0f3460;">Hong Kong Ordinance Q&A</h3>
     <p style="margin-bottom: 0;">Query and interpret Hong Kong legislation with AI-powered natural language understanding, covering the full corpus of Hong Kong ordinances and subsidiary legislation.</p>
   </div>
-  <div style="background: #f8f9fa; border-left: 4px solid #e94560; padding: 20px; border-radius: 8px;">
+  <div class="lexi-card" style="background: #f8f9fa; border-left: 4px solid #e94560; padding: 20px; border-radius: 8px;">
     <h3 style="margin-top: 0; color: #e94560;">Legal Opinion Generation</h3>
     <p style="margin-bottom: 0;">Generate structured legal opinions grounded in Hong Kong law, with traceable references to specific ordinances and case law.</p>
   </div>
-  <div style="background: #f8f9fa; border-left: 4px solid #1a9988; padding: 20px; border-radius: 8px;">
+  <div class="lexi-card" style="background: #f8f9fa; border-left: 4px solid #1a9988; padding: 20px; border-radius: 8px;">
     <h3 style="margin-top: 0; color: #1a9988;">Trilingual Support</h3>
     <p style="margin-bottom: 0;">Fully supports Cantonese, Mandarin, and English — reflecting Hong Kong's unique multilingual legal environment and dual legal system.</p>
   </div>
-  <div style="background: #f8f9fa; border-left: 4px solid #f5a623; padding: 20px; border-radius: 8px;">
+  <div class="lexi-card" style="background: #f8f9fa; border-left: 4px solid #f5a623; padding: 20px; border-radius: 8px;">
     <h3 style="margin-top: 0; color: #f5a623;">Compliance-First Design</h3>
     <p style="margin-bottom: 0;">Designed with legal compliance at its core, incorporating safeguards aligned with Hong Kong's regulatory framework and professional ethics standards.</p>
   </div>
@@ -53,17 +72,17 @@ LexiHK（港法通）是由香港生成式人工智能研发中心（HKGAI）开
 # Recognition & Impact
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 24px; margin: 24px 0;">
-  <div style="background: linear-gradient(135deg, #fdf6ec, #fef9f0); border: 1px solid #f0d9a0; padding: 24px; border-radius: 12px; text-align: center;">
+  <div class="lexi-impact-card" style="background: linear-gradient(135deg, #fdf6ec, #fef9f0); border: 1px solid #f0d9a0; padding: 24px; border-radius: 12px; text-align: center;">
     <div style="font-size: 2.5em; margin-bottom: 8px;">🥉</div>
     <h3 style="margin: 0 0 8px 0; color: #8b6914;">Bronze Medal</h3>
     <p style="margin: 0; font-size: 0.95em; color: #555;">50th International Exhibition of Inventions of Geneva (April 2025) — the world's largest exhibition devoted exclusively to inventions.</p>
   </div>
-  <div style="background: linear-gradient(135deg, #eef6ff, #f0f8ff); border: 1px solid #a0c8f0; padding: 24px; border-radius: 12px; text-align: center;">
+  <div class="lexi-impact-card" style="background: linear-gradient(135deg, #eef6ff, #f0f8ff); border: 1px solid #a0c8f0; padding: 24px; border-radius: 12px; text-align: center;">
     <div style="font-size: 2.5em; margin-bottom: 8px;">🏛️</div>
     <h3 style="margin: 0 0 8px 0; color: #1a5276;">Government Adoption</h3>
     <p style="margin: 0; font-size: 0.95em; color: #555;">Part of the HKGAI V1 ecosystem adopted by 70+ Hong Kong government departments, supporting public service modernization.</p>
   </div>
-  <div style="background: linear-gradient(135deg, #f0f9f0, #f5fdf5); border: 1px solid #a0d8a0; padding: 24px; border-radius: 12px; text-align: center;">
+  <div class="lexi-impact-card" style="background: linear-gradient(135deg, #f0f9f0, #f5fdf5); border: 1px solid #a0d8a0; padding: 24px; border-radius: 12px; text-align: center;">
     <div style="font-size: 2.5em; margin-bottom: 8px;">🌐</div>
     <h3 style="margin: 0 0 8px 0; color: #1a7a3a;">Sovereign LLM</h3>
     <p style="margin: 0; font-size: 0.95em; color: #555;">Built on Hong Kong's first locally developed LLM, ensuring data sovereignty and alignment with local legal norms and values.</p>
