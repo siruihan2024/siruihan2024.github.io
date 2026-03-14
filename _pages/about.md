@@ -37,7 +37,7 @@ I am an **Assistant Professor** at the [Hong Kong University of Science and Tech
     <span class="metric-label">PhD Students<br>博士生</span>
   </div>
   <div class="metric-item">
-    <span class="metric-number">11</span>
+    <span class="metric-number">13</span>
     <span class="metric-label">Industry Partners<br>产业合作伙伴</span>
   </div>
 </div>
