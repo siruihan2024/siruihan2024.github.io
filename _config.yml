@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Sirui Han"
-description              : "Assistant Professor & RGC-Fulbright Research Scholar"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Assistant Professor at HKUST | Head of LLM Division at HKGAI | AI + Law"
+repository               : "siruihan2024/siruihan2024.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sirui Han"
   avatar           : "images/citations-han.jpeg"
-  bio              : "HKUST"
+  bio              : "Assistant Professor, HKUST<br>Head of LLM Division, HKGAI"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "siruihan2024"
   google_plus      :
   keybase          :
   instagram        :
